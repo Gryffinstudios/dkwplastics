@@ -7,11 +7,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akilatorchlabs/dkwplastics.git"
+    "url": "https://github.com/Gryffinstudios/dkwplastics.git"
   },
-  "homepage": "https://github.com/akilatorchlabs/dkwplastics",
+  "homepage": "https://github.com/Gryffinstudios/dkwplastics",
   "bugs": {
-    "url": "https://github.com/akilatorchlabs/dkwplastics/issues"
+    "url": "https://github.com/Gryffinstudios/dkwplastics/issues"
   },
   "keywords": [
     "claude-code",

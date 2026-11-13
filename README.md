@@ -15,7 +15,7 @@ Open http://localhost:3000. Run `npm run check` for ESLint, TypeScript, and a pr
 
 ## Vercel deployment
 
-Import https://github.com/akilatorchlabs/dkwplastics into Vercel. Use the Next.js preset, repository root (`./`), build command `npm run build`, and the automatically detected output directory. Node.js is pinned to 24.x. No environment variables are currently required.
+Import https://github.com/Gryffinstudios/dkwplastics into Vercel. Use the Next.js preset, repository root (`./`), build command `npm run build`, and the automatically detected output directory. Node.js is pinned to 24.x. No environment variables are currently required.
 
 The `public/` directory contains the site's local visual assets and must be committed. Dependencies, local environment files, and generated build files are excluded by `.gitignore`.
 
