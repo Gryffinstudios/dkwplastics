@@ -1,0 +1,54 @@
+{
+  "source": "https://dkwplastics.com/contact-us/",
+  "sourceForm": "forminator-module-391",
+  "fields": [
+    {
+      "sourceName": "name-1-first-name",
+      "label": "First Name",
+      "placeholder": "E.g. John",
+      "required": true
+    },
+    {
+      "sourceName": "name-1-last-name",
+      "label": "Last Name",
+      "placeholder": "E.g. Doe",
+      "required": true
+    },
+    {
+      "sourceName": "email-1",
+      "label": "Email Address",
+      "placeholder": "E.g. example@gmail.com",
+      "required": true
+    },
+    {
+      "sourceName": "phone-1",
+      "label": "Phone Number",
+      "placeholder": "E.g. +94 77 345 6789",
+      "required": true
+    }
+  ],
+  "products": [
+    "Resealable Ziplock bags",
+    "Food Grade Packaging",
+    "Retail Textile Bags",
+    "Agriculture",
+    "Garment Packaging",
+    "Multi-Color Polythene Reels",
+    "Gusseted Bags",
+    "Household Items",
+    "Other"
+  ],
+  "descriptionLimit": 180,
+  "submitLabel": "Request Quote",
+  "layout": {
+    "nameColumns": 2,
+    "emailColumns": 1,
+    "phoneColumns": 1,
+    "contentMaxWidthPx": 1140,
+    "formPaddingBlockPx": 80,
+    "rowGapPx": 30,
+    "headerMinHeightDesktop": "39vh",
+    "headerMinHeightMobile": "16vh"
+  },
+  "submission": "Local email draft; captured WordPress form endpoints and nonces are not reused."
+}

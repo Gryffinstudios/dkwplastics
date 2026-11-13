@@ -10,6 +10,8 @@ build/
 dist/
 
 # Environment
+.env*
+!.env.example
 .env
 .env.local
 .env.development.local
@@ -47,3 +49,7 @@ next-env.d.ts
 
 # Local temp files
 temp/
+
+# Python import/capture helpers
+__pycache__/
+*.pyc

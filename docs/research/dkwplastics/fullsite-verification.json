@@ -1,0 +1,59 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/shop/",
+      "status": 200
+    },
+    {
+      "path": "/contact-us/",
+      "status": 200
+    },
+    {
+      "path": "/blog/",
+      "status": 200
+    },
+    {
+      "path": "/the-evolution-of-reusable-ziplock-bags/",
+      "status": 200
+    },
+    {
+      "path": "/how-to-recycle-ldpe-essential-guide-for-businesses/",
+      "status": 200
+    },
+    {
+      "path": "/a-deep-dive-into-dkw-plastic-recycling/",
+      "status": 200
+    },
+    {
+      "path": "/role-of-food-safe-packaging-in-the-food-industry/",
+      "status": 200
+    },
+    {
+      "path": "/exploring-uses-of-plastic-packaging/",
+      "status": 200
+    },
+    {
+      "path": "/how-use-food-grade-packaging-for-wijaya-products/",
+      "status": 200
+    },
+    {
+      "path": "/5-essential-commercial-uses-of-resealable-ziplock-bags/",
+      "status": 200
+    },
+    {
+      "path": "/a-comprehensive-guide-to-food-grade-packaging/",
+      "status": 200
+    }
+  ],
+  "internalLinkFailures": [],
+  "catalogAnchors": "01?08 verified",
+  "productPreselection": "Plain Ziplock Bags verified",
+  "unknownRoute": 404,
+  "build": "npm run check passed",
+  "articleBodiesPending": 8,
+  "browserComparison": "Not completed: native app inspection approval timed out."
+}

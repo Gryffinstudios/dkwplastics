@@ -1,0 +1,29 @@
+{
+  "pagesCaptured": 12,
+  "assetsSaved": 228,
+  "articlesImported": 8,
+  "remainingArticleImageDownloads": 9,
+  "blockedArticleImages": [
+    {
+      "slug": "the-evolution-of-reusable-ziplock-bags",
+      "imageCount": 2
+    },
+    {
+      "slug": "a-deep-dive-into-dkw-plastic-recycling",
+      "imageCount": 1
+    },
+    {
+      "slug": "how-use-food-grade-packaging-for-wijaya-products",
+      "imageCount": 2
+    },
+    {
+      "slug": "5-essential-commercial-uses-of-resealable-ziplock-bags",
+      "imageCount": 2
+    },
+    {
+      "slug": "a-comprehensive-guide-to-food-grade-packaging",
+      "imageCount": 2
+    }
+  ],
+  "unusedThemeImage404": true
+}

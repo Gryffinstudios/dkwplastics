@@ -1,0 +1,82 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/shop/",
+      "status": 200
+    },
+    {
+      "path": "/contact-us/",
+      "status": 200
+    },
+    {
+      "path": "/blog/",
+      "status": 200
+    },
+    {
+      "path": "/the-evolution-of-reusable-ziplock-bags/",
+      "status": 200
+    },
+    {
+      "path": "/how-to-recycle-ldpe-essential-guide-for-businesses/",
+      "status": 200
+    },
+    {
+      "path": "/a-deep-dive-into-dkw-plastic-recycling/",
+      "status": 200
+    },
+    {
+      "path": "/role-of-food-safe-packaging-in-the-food-industry/",
+      "status": 200
+    },
+    {
+      "path": "/exploring-uses-of-plastic-packaging/",
+      "status": 200
+    },
+    {
+      "path": "/how-use-food-grade-packaging-for-wijaya-products/",
+      "status": 200
+    },
+    {
+      "path": "/5-essential-commercial-uses-of-resealable-ziplock-bags/",
+      "status": 200
+    },
+    {
+      "path": "/a-comprehensive-guide-to-food-grade-packaging/",
+      "status": 200
+    }
+  ],
+  "localRenderedImagesChecked": 84,
+  "articlesImported": 8,
+  "articlePreviewsRemaining": 0,
+  "categories": 8,
+  "galleryImages": 37,
+  "variants": 25,
+  "specificationRows": 125,
+  "remainingRemoteArticleImages": [
+    "https://dkwplastics.com/wp-content/uploads/2024/04/DALL\u00b7E-2024-04-08-16.05.28-A-captivating-featured-image-for-a-blog-post-titled-Exploring-Uses-of-Plastic-Packaging.-Incorporate-visual-elements-representing-various-types-of-p-1024x585.webp",
+    "https://dkwplastics.com/wp-content/uploads/2024/04/DALL\u00b7E-2024-04-08-16.08.25-A-captivating-featured-image-for-a-blog-post-titled-Exploring-Uses-of-Plastic-Packaging.-Incorporate-visual-elements-representing-various-types-of-p-1024x585.webp",
+    "https://lh7-us.googleusercontent.com/7JeT6vm7dgtFEhwEAjaXCnhXbFylJhWhi6mhgYNP6jFwhKf3e1VI7CONpxD_MYfbNH4QKnSnhQ8M3ZorwTbGOWjjyo5TVdNqoCivIVJNgBOyVjSY-9HK21-9jIrYSI0aaPF1ZAGzh3wuHC2UZrczEDE",
+    "https://lh7-us.googleusercontent.com/C7UQmgysEdH-tYMquEKEyvVUGQ_zgbj2pYKGWOLe8vds3rL5cgcA3rpDYjhxUTzK6e6ydssCiUDNGdQOhuF_SoKD60Y40zzB2BRtDToPpulW2RG_da8f9liO2P_dYQ2PacDPpL3UoWWvb5Li3GOdS94",
+    "https://lh7-us.googleusercontent.com/IakjsrlhzpTkK30TsO8w6CC_efdBaRYlqF0d4B63EdPmS1JJyI5ielDCsYH4JU9oQ9CfFEQ1dE0ewJIETzhdhw6p7prBs2Cc4LupkKDujuLl7L2mM4ySvA2CgIcERtZ4KOTv8mb8FptZADx27rDRZ78",
+    "https://lh7-us.googleusercontent.com/N4_kC7tIk9ToHj66AiSuyzVBbKEWW2vsMDL2ImBxihITAWIVuafhfcboaXyAu6df4HwdLgWXT77Y2ePrpt4lsMqtKklAKh9vLzL0eOdeHj0Hb44f_2vvUywnqCuH3uywoxSvAuR1YnJJ1TY39LFPGwo",
+    "https://lh7-us.googleusercontent.com/Op4T-kyNo9YS4A1JsMRSDYZeGs6RKGDL5DzjZVhsvNPBT4kPX5rPp7kFoeblA7jmO-_3ZTS4NoVdbGs0_nPbp91jSKOe_wbtnCD4jbOzgGr-gO8lPLs0NYkbdIRIbuY-nx6B2a3vs3apc4mSl4vK7xA",
+    "https://lh7-us.googleusercontent.com/RDobSd8_n9CRNiu0rRH7-RNILdRNez4M1CPcQGhF7jng_2oaM7byayuhTaOdKTGerlowjzArspPFc3z4D_7WA0PNQr8CipexYRc-ZhxNN2yzVUg1KZDMW3umv8epapTd9GdageGXw3ZshRrtA1vxVQs",
+    "https://lh7-us.googleusercontent.com/Va2O7u1QhiGF9tNIGTDhJHQEIwkjQOUHgwuhqkVnrDQ4XKQWT6HJQdHNgaNj5nZuyXcmAL9tqUoAghmYeFggg_3kmOKLkEwZgWbP9eT8UUHsvs0qsWtQge6pGxBZgghPwezF9zv4xnuoJuGszCMhvO4",
+    "https://lh7-us.googleusercontent.com/Zmlt8Up0eMDVkbBA7CjfSBtP-oDPzHqyQW2eMdjkWPJRtwFXz2GBCAJ8vonuW5b4lNzuuL-03FINQE1hHw7glCyxrlcZdD8lR07JHWY-Zr3nn0VqROUG4rDuTqU1CZMkmd4qfrtFFhWLom6QgOSB7-E",
+    "https://lh7-us.googleusercontent.com/bypDyGIfHUaZC3Wli_e-Yu5L1Ug_hAW8ssP6ypFlYM9bCS_hrLwWGoSZRjLGNC2UoK6N77d1uqlVT99FPhVVhQeJbDVZhDmpnMmFcaMUbMjyGb6kjtdm5-j-eblSEplKC0O1HUxOIdbqwskKLvr7Vok",
+    "https://lh7-us.googleusercontent.com/docsz/AD_4nXckR9sGru5b709YU_aBC1mNm-tfpOFjrnpGGtdCpMd8bkZd8j42NHmirXehdZ6yOqU9H-egOBAt57mQkXSYY8tSZmn0_XQ349A6DwBG79Sp-uToLCvNXAt4MFbJUxoeoOg4BhCKxkBgIh7_xOGsfTdu7w8s?key=QIOXKqbjKtxzv1ZYTx-faQ",
+    "https://lh7-us.googleusercontent.com/docsz/AD_4nXdPYjxUszy4D91PtQuIRMeghjlBqdRQGh8yzspNI0RMo55q2rPfT4yWYNVO0dfoO2XuA73Y2XOAJqpWIKpp_39VMHW0kSRRewLsMvuhrkUt1D2ejZ-2sBbtl9CZoW9W2Yq5saFrQcKUNpqtavJL2HPnzXje?key=QIOXKqbjKtxzv1ZYTx-faQ",
+    "https://lh7-us.googleusercontent.com/fUA5ctBN2QINxz-dEi3HspK_v9dwCzKUMWLkf6_SJzV6YRdYej1-Hroruft9KmFIo3BJ6XyGyK6sLGBDYF0MmG9DLK90pCGlj1_DxC7qYrbgqvFyI3hGDh2mmdfNouWmliWWMyx0V3spql6dmpBbqK4",
+    "https://lh7-us.googleusercontent.com/gs3Rvh3_PraVjI_Y9KVF8MrN5ib9EUQWYGhgWGXfAmnXZCpAeZeCA6qLHcn_dGpcfQNY3ml7oHiwXpH-ODIXJVpBqaeDurKtMMfkbg8DN70Ss9vpi2xptO3l0Ex3rvi7iRz8DNb75dSBmIoJLpLe_00",
+    "https://lh7-us.googleusercontent.com/h7DhngF-H4KAt79SK3CIlGV7kwsUOQ6A0JYhfDxsqxFPdIpPzdBAdbxp-6NGsBWj92rDmHIguzLGsfixKuVXOqdCiQ-PzE2wfzzuZtYynC8jsCoFB0baoDYQqPJB3fUvMZGFlgcpYBl7PhiVR3bjg9w",
+    "https://lh7-us.googleusercontent.com/ljtCHt0qAZA3lK99BcVouHscUMPgdI04wwjKAUTI3-1YqPF79cHHtzQMh-oJsb9haki4pBkLmLy4tBN5o06oeQ6e1c4-ir5rDNAHqU_JQctRKvdKPg7g2yZjnhClfil9aAvJfCrNDx1xzVw4I29rB8A",
+    "https://lh7-us.googleusercontent.com/qEYNIkFWwWULAk9fpd85pi6YpRxu5S7QI_Q3kThq4kNwF9oZP-Pv4nNU9fQdjV4y4MhTcVyIOENiAg-PSB3szoy_cKJeomKj0PEszCjQwRpjsHz_lPBNhgiHvR12kCx5EkN_EMQW5IZzo8T2q91vpO8",
+    "https://lh7-us.googleusercontent.com/sct9W6TInR0lCMKZcfWh9Q4OdSMIaqLmPL0c2fDTijZTyqgwsoM5qARxpHxIRK62jrZyrPWk1kW5iZOD94stMFS08XfNR2-hzEK5oN-ffLv7u-hA11v8ZbQoQEay5Zfmo-Md1emBdYZAYQKGzhW6sOQ",
+    "https://lh7-us.googleusercontent.com/vCTsHDYDXFLWoG6N6qjHbpr58UfrR3r-yM6APp5GUIgkp_QyBZ8xKuewpLLxtAQXdZ95FRFAolFFHy5hhJocuxvqEp5dX59yyph7_3HK4XDgVdoNwYKKD5uVn49CINAIbMiZMDBYTl9fhaH-asiK7Wc"
+  ],
+  "browserComparison": "Not completed for new pages: native browser access approval previously timed out."
+}

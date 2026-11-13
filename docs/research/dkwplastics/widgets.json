@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "c140c9f",
+    "type": "nav-menu.default",
+    "text": "[SVG]",
+    "images": []
+  },
+  {
+    "id": "6c2fe27",
+    "type": "icon-list.default",
+    "text": "[SVG]",
+    "images": []
+  },
+  {
+    "id": "b54f14e",
+    "type": "icon-list.default",
+    "text": "[SVG]",
+    "images": []
+  },
+  {
+    "id": "cfc9335",
+    "type": "icon-list.default",
+    "text": "[SVG]",
+    "images": []
+  },
+  {
+    "id": "d550146",
+    "type": "heading.default",
+    "text": "Our Journey",
+    "images": []
+  },
+  {
+    "id": "4f75c23",
+    "type": "heading.default",
+    "text": "Products",
+    "images": []
+  },
+  {
+    "id": "d5a6daf",
+    "type": "icon.default",
+    "text": "[SVG]",
+    "images": []
+  },
+  {
+    "id": "44b7545",
+    "type": "heading.default",
+    "text": "Client Reviews",
+    "images": []
+  },
+  {
+    "id": "580c197",
+    "type": "heading.default",
+    "text": "Contact Us",
+    "images": []
+  },
+  {
+    "id": "7e4bab0",
+    "type": "spacer.default",
+    "text": "",
+    "images": []
+  },
+  {
+    "id": "59402ac",
+    "type": "heading.default",
+    "text": "Manufacturing Custom  PolyPackaging Solutions",
+    "images": []
+  },
+  {
+    "id": "47023cc",
+    "type": "text-editor.default",
+    "text": "Quality, Affordability, Integrity Specialized in retail bags, zip locks, food, agriculture and garment packaging, garbage bags, films and more",
+    "images": []
+  },
+  {
+    "id": "729f47c",
+    "type": "spacer.default",
+    "text": "",
+    "images": []
+  },
+  {
+    "id": "d9d5d28",
+    "type": "counter.default",
+    "text": "Years in Industry 42  +",
+    "images": []
+  },
+  {
+    "id": "61d164c",
+    "type": "counter.default",
+    "text": "Sectors Served 10  +",
+    "images": []
+  },
+  {
+    "id": "cb0b6d7",
+    "type": "counter.default",
+    "text": "Satisfied Customers 1,000  +",
+    "images": []
+  },
+  {
+    "id": "15aab4f",
+    "type": "counter.default",
+    "text": "Volume Recycled 3.4  Million KG",
+    "images": []
+  },
+  {
+    "id": "474bb6d",
+    "type": "html.default",
+    "text": "",
+    "images": [
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.10-254x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.9-300x227.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.8-300x292.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.6-283x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5ruby-192x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.Nursery-237x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.1-208x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3ZL-Spare-198x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3odeal-214x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3noli-213x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.2.flora_-190x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.1-LH-217x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.11-138x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.7rain-300x300.jpeg"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5kruak-236x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.10-254x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.9-300x227.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.8-300x292.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.6-283x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5ruby-192x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.Nursery-237x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.1-208x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3ZL-Spare-198x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3odeal-214x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3noli-213x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.2.flora_-190x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.1-LH-217x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.11-138x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.7rain-300x300.jpeg"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5kruak-236x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.10-254x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.9-300x227.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.8-300x292.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.6-283x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5ruby-192x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.Nursery-237x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.1-208x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3ZL-Spare-198x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3odeal-214x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3noli-213x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.2.flora_-190x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.1-LH-217x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.11-138x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.7rain-300x300.jpeg"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5kruak-236x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.10-254x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.9-300x227.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.8-300x292.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.6-283x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5ruby-192x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.Nursery-237x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.1-208x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3ZL-Spare-198x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3odeal-214x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3noli-213x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.2.flora_-190x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.1-LH-217x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.11-138x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.7rain-300x300.jpeg"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5kruak-236x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.10-254x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.9-300x227.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.8-300x292.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.6-283x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5ruby-192x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.Nursery-237x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.1-208x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3ZL-Spare-198x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3odeal-214x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3noli-213x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.2.flora_-190x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.1-LH-217x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.11-138x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.7rain-300x300.jpeg"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5kruak-236x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.10-254x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.9-300x227.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.8-300x292.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.6-283x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5ruby-192x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.Nursery-237x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.1-208x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3ZL-Spare-198x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3odeal-214x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3noli-213x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.2.flora_-190x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.1-LH-217x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.11-138x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.7rain-300x300.jpeg"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5kruak-236x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.10-254x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.9-300x227.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.8-300x292.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.6-283x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5ruby-192x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.Nursery-237x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.1-208x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3ZL-Spare-198x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3odeal-214x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3noli-213x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.2.flora_-190x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.1-LH-217x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.11-138x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.7rain-300x300.jpeg"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5kruak-236x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.10-254x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.9-300x227.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.8-300x292.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.6-283x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5ruby-192x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.Nursery-237x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.4.1-208x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3ZL-Spare-198x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3odeal-214x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.3noli-213x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.2.flora_-190x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.1-LH-217x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.11-138x300.png"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.7rain-300x300.jpeg"
+      },
+      {
+        "decoding": "async",
+        "class": "slide",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/1.5kruak-236x300.png"
+      }
+    ]
+  },
+  {
+    "id": "9d06a83",
+    "type": "heading.default",
+    "text": "Our Past Clients from 40 Years across the Island",
+    "images": []
+  },
+  {
+    "id": "4863cee",
+    "type": "text-editor.default",
+    "text": "Over the past 40 years, we have proudly served a diverse range of clients across the island. Our commitment to excellence and dedication to customer satisfaction have earned us a reputation as a trusted partner in the industry.",
+    "images": []
+  },
+  {
+    "id": "d3ae0a1",
+    "type": "button.default",
+    "text": "View Blog",
+    "images": []
+  },
+  {
+    "id": "ddd7e94",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "668",
+        "height": "454",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/Copy-of-Dilmah.png",
+        "class": "attachment-large size-large wp-image-793",
+        "alt": "Dilmah",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2024/01/Copy-of-Dilmah.png 668w, https://dkwplastics.com/wp-content/uploads/2024/01/Copy-of-Dilmah-300x204.png 300w, https://dkwplastics.com/wp-content/uploads/2024/01/Copy-of-Dilmah-600x408.png 600w",
+        "sizes": "(max-width: 668px) 100vw, 668px"
+      }
+    ]
+  },
+  {
+    "id": "2ee60ca",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "decoding": "async",
+        "width": "1024",
+        "height": "269",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/Fashion-Bug-Final-1024x269.png",
+        "class": "attachment-large size-large wp-image-917",
+        "alt": "Fashion Bug",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2024/01/Fashion-Bug-Final-1024x269.png 1024w, https://dkwplastics.com/wp-content/uploads/2024/01/Fashion-Bug-Final-300x79.png 300w, https://dkwplastics.com/wp-content/uploads/2024/01/Fashion-Bug-Final-768x202.png 768w, https://dkwplastics.com/wp-content/uploads/2024/01/Fashion-Bug-Final-600x158.png 600w, https://dkwplastics.com/wp-content/uploads/2024/01/Fashion-Bug-Final.png 1102w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px"
+      }
+    ]
+  },
+  {
+    "id": "68b82b3",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "decoding": "async",
+        "width": "1024",
+        "height": "392",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/Odelwhite-1024x392.png",
+        "class": "attachment-large size-large wp-image-786",
+        "alt": "Odel",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2024/01/Odelwhite-1024x392.png 1024w, https://dkwplastics.com/wp-content/uploads/2024/01/Odelwhite-300x115.png 300w, https://dkwplastics.com/wp-content/uploads/2024/01/Odelwhite-768x294.png 768w, https://dkwplastics.com/wp-content/uploads/2024/01/Odelwhite-600x229.png 600w, https://dkwplastics.com/wp-content/uploads/2024/01/Odelwhite.png 1156w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px"
+      }
+    ]
+  },
+  {
+    "id": "3c8000f",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "849",
+        "height": "530",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/HouseofFashion.png",
+        "class": "attachment-large size-large wp-image-789",
+        "alt": "House of Fashion",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2024/01/HouseofFashion.png 849w, https://dkwplastics.com/wp-content/uploads/2024/01/HouseofFashion-300x187.png 300w, https://dkwplastics.com/wp-content/uploads/2024/01/HouseofFashion-768x479.png 768w, https://dkwplastics.com/wp-content/uploads/2024/01/HouseofFashion-600x375.png 600w",
+        "sizes": "(max-width: 849px) 100vw, 849px"
+      }
+    ]
+  },
+  {
+    "id": "0dab06b",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1024",
+        "height": "593",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/Wijeya-Products-Final-1024x593.png",
+        "class": "attachment-large size-large wp-image-918",
+        "alt": "Wijaya Products",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2024/01/Wijeya-Products-Final-1024x593.png 1024w, https://dkwplastics.com/wp-content/uploads/2024/01/Wijeya-Products-Final-300x174.png 300w, https://dkwplastics.com/wp-content/uploads/2024/01/Wijeya-Products-Final-768x444.png 768w, https://dkwplastics.com/wp-content/uploads/2024/01/Wijeya-Products-Final-1536x889.png 1536w, https://dkwplastics.com/wp-content/uploads/2024/01/Wijeya-Products-Final-2048x1185.png 2048w, https://dkwplastics.com/wp-content/uploads/2024/01/Wijeya-Products-Final-600x347.png 600w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px"
+      }
+    ]
+  },
+  {
+    "id": "3c2d961",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "225",
+        "height": "225",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/LalanRubbers.png",
+        "class": "attachment-large size-large wp-image-788",
+        "alt": "Lalan Rubbers",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2024/01/LalanRubbers.png 225w, https://dkwplastics.com/wp-content/uploads/2024/01/LalanRubbers-150x150.png 150w, https://dkwplastics.com/wp-content/uploads/2024/01/LalanRubbers-200x200.png 200w",
+        "sizes": "(max-width: 225px) 100vw, 225px"
+      }
+    ]
+  },
+  {
+    "id": "7c2a3a3",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1024",
+        "height": "481",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/webuop-imgp-1024x481.png",
+        "class": "attachment-large size-large wp-image-107",
+        "alt": "Home Image",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2023/12/webuop-imgp-1024x481.png 1024w, https://dkwplastics.com/wp-content/uploads/2023/12/webuop-imgp-600x282.png 600w, https://dkwplastics.com/wp-content/uploads/2023/12/webuop-imgp-300x141.png 300w, https://dkwplastics.com/wp-content/uploads/2023/12/webuop-imgp-768x361.png 768w, https://dkwplastics.com/wp-content/uploads/2023/12/webuop-imgp.png 1280w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px"
+      }
+    ]
+  },
+  {
+    "id": "8739cfd",
+    "type": "heading.default",
+    "text": "Products and Sectors",
+    "images": []
+  },
+  {
+    "id": "8b67814",
+    "type": "text-editor.default",
+    "text": "At our Poly Packaging Factory, we take pride in offering a wide range of products that cater to various sectors and industries.   With our diverse product portfolio, we can meet the unique packaging needs of different businesses and sectors.    Here are some of the products we offer and the sectors they serve:",
+    "images": []
+  },
+  {
+    "id": "db54574",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "411",
+        "height": "271",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/ziplocks-c7cf2dd5.webp.png",
+        "class": "attachment-large size-large wp-image-117",
+        "alt": "Ziplock Bag",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2023/12/ziplocks-c7cf2dd5.webp.png 411w, https://dkwplastics.com/wp-content/uploads/2023/12/ziplocks-c7cf2dd5.webp-300x198.png 300w",
+        "sizes": "(max-width: 411px) 100vw, 411px"
+      }
+    ]
+  },
+  {
+    "id": "1570d9a",
+    "type": "heading.default",
+    "text": "Resealable Ziplock bags",
+    "images": []
+  },
+  {
+    "id": "209efe3",
+    "type": "text-editor.default",
+    "text": "Discover versatile storage solutions with our unique Resealable Ziplock Bags, tailored to your needs. These Ziplocks are ideal for robust needs in jewelry, spare-parts, manufacturing, office organization, medical storage, and home use. Plain Ziplock Bags Ziplock Bags with Customized Print Ziplock Bags with Patch Handles Personalize your Ziplocks with our customizable features like patch handles and printed artwork to create a perfect fit for your requirements.",
+    "images": []
+  },
+  {
+    "id": "257bd1c",
+    "type": "heading.default",
+    "text": "See More >>>",
+    "images": []
+  },
+  {
+    "id": "4794866",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "411",
+        "height": "271",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/food-2fb38c05.webp.png",
+        "class": "attachment-large size-large wp-image-118",
+        "alt": "Food",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2023/12/food-2fb38c05.webp.png 411w, https://dkwplastics.com/wp-content/uploads/2023/12/food-2fb38c05.webp-300x198.png 300w",
+        "sizes": "(max-width: 411px) 100vw, 411px"
+      }
+    ]
+  },
+  {
+    "id": "30f56a9",
+    "type": "heading.default",
+    "text": "Food Grade Packaging​",
+    "images": []
+  },
+  {
+    "id": "acafe0e",
+    "type": "text-editor.default",
+    "text": "We take pride in delivering government-certified food-grade packaging options, which strictly adhere to rigorous quality and safety standards. Our comprehensive range is tailored to diverse food products, consisting of films, inner bulk bags, and more. To name a few: Tea, Flour, Sugar, Mixture Bags Bakery Items Bulk Dry Food Items These solutions exceed industry requirements, enabling an extended shelf life. safeguarding freshness, providing protection for food items during prolonged storage and transportation.",
+    "images": []
+  },
+  {
+    "id": "529d76b",
+    "type": "heading.default",
+    "text": "See More >>>",
+    "images": []
+  },
+  {
+    "id": "cdc85e4",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "411",
+        "height": "271",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/textile-d979efb0.webp.png",
+        "class": "attachment-large size-large wp-image-247",
+        "alt": "Textile",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2023/12/textile-d979efb0.webp.png 411w, https://dkwplastics.com/wp-content/uploads/2023/12/textile-d979efb0.webp-300x198.png 300w",
+        "sizes": "(max-width: 411px) 100vw, 411px"
+      }
+    ]
+  },
+  {
+    "id": "0b73c97",
+    "type": "heading.default",
+    "text": "Retail Textile Bags",
+    "images": []
+  },
+  {
+    "id": "ae7718d",
+    "type": "text-editor.default",
+    "text": "Our retail textile bags are designed to be both stylish and functional, making them the perfect choice for businesses looking to make a positive impression. Reinforce (Patch) Handle Carrier Bags Loop Handle Kidney Cut Bags Available in various sizes, materials, and customization options, we can tailor our bags to meet your specific requirements.",
+    "images": []
+  },
+  {
+    "id": "859cb44",
+    "type": "heading.default",
+    "text": "See More >>>",
+    "images": []
+  },
+  {
+    "id": "23026e2",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "411",
+        "height": "271",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/410_farm-6475205f.webp.png",
+        "class": "attachment-large size-large wp-image-246",
+        "alt": "Farm",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2023/12/410_farm-6475205f.webp.png 411w, https://dkwplastics.com/wp-content/uploads/2023/12/410_farm-6475205f.webp-300x198.png 300w",
+        "sizes": "(max-width: 411px) 100vw, 411px"
+      }
+    ]
+  },
+  {
+    "id": "1420250",
+    "type": "heading.default",
+    "text": "Agriculture",
+    "images": []
+  },
+  {
+    "id": "c092fbe",
+    "type": "text-editor.default",
+    "text": "Our agricultural packaging solutions are designed to withstand the demands of the industry. Nursery Bag (with or without Perforation) 3 Layer Film Film Supply for Lamination 3 Layer Film Supply for Rain Guards We offer durable and protective packaging for rubber estates, tea plantations, and other crops, ensuring that your products are safely transported and stored.",
+    "images": []
+  },
+  {
+    "id": "47be452",
+    "type": "heading.default",
+    "text": "See More >>>",
+    "images": []
+  },
+  {
+    "id": "2c39f0d",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "411",
+        "height": "271",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/garment-ee30ddca.webp.png",
+        "class": "attachment-large size-large wp-image-245",
+        "alt": "Garment Bags",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2023/12/garment-ee30ddca.webp.png 411w, https://dkwplastics.com/wp-content/uploads/2023/12/garment-ee30ddca.webp-300x198.png 300w",
+        "sizes": "(max-width: 411px) 100vw, 411px"
+      }
+    ]
+  },
+  {
+    "id": "980c487",
+    "type": "heading.default",
+    "text": "Garment Packaging",
+    "images": []
+  },
+  {
+    "id": "9e01925",
+    "type": "text-editor.default",
+    "text": "When it comes to garment packaging, including hanger bags, we specialize in providing solutions that merge practicality with elegance. Our range of garment packaging options is meticulously designed to ensure the safe and stylish presentation of your clothing. Hanger Bags Garment Covers Envelope Bags Whether it’s hanger bags, garment covers, or customized packaging, we understand the importance of making your clothing look its best. Our solutions not only protect your garments but also elevate their visual appeal, making them ready to shine in any retail or storage setting.",
+    "images": []
+  },
+  {
+    "id": "a2c5314",
+    "type": "heading.default",
+    "text": "See More >>>",
+    "images": []
+  },
+  {
+    "id": "d251b6a",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "411",
+        "height": "271",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/poly-c60b2b9b.webp.png",
+        "class": "attachment-large size-large wp-image-244",
+        "alt": "Polythene Reels",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2023/12/poly-c60b2b9b.webp.png 411w, https://dkwplastics.com/wp-content/uploads/2023/12/poly-c60b2b9b.webp-300x198.png 300w",
+        "sizes": "(max-width: 411px) 100vw, 411px"
+      }
+    ]
+  },
+  {
+    "id": "fb87c21",
+    "type": "heading.default",
+    "text": "Multi-Color Polythene Reels",
+    "images": []
+  },
+  {
+    "id": "420a0ad",
+    "type": "text-editor.default",
+    "text": "Introducing our 6 Multi-Color Polythene Tube/Reel Form packaging, available in a variety of materials including HDPE, PP, LDPE, and LLDPE. These versatile packaging solutions offer a burst of vibrant colors, adding visual appeal to your products. Whether you need to showcase your items, organize materials, or create eye-catching displays, our Multi- Color Polythene Tube/Reel Form packaging does it all with flair. Crafted with precision and quality, these packaging options provide both style and functionality, making them an ideal choice for a wide range of applications.",
+    "images": []
+  },
+  {
+    "id": "c599e0f",
+    "type": "heading.default",
+    "text": "See More >>>",
+    "images": []
+  },
+  {
+    "id": "dfb7ce5",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "411",
+        "height": "271",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/guss-cccdba24.webp.png",
+        "class": "attachment-large size-large wp-image-243",
+        "alt": "Home Image",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2023/12/guss-cccdba24.webp.png 411w, https://dkwplastics.com/wp-content/uploads/2023/12/guss-cccdba24.webp-300x198.png 300w",
+        "sizes": "(max-width: 411px) 100vw, 411px"
+      }
+    ]
+  },
+  {
+    "id": "47a955f",
+    "type": "heading.default",
+    "text": "Gusseted Bags",
+    "images": []
+  },
+  {
+    "id": "f68d9ed",
+    "type": "text-editor.default",
+    "text": "Gusseted Bags, available in both Bottom Seal Side Gusset and Side Seal Bottom Gusset designs, offer exceptional versatility for various packaging needs. Their expandable side gussets enable you to accommodate bulkier or irregularly shaped items with ease, making them perfect for packaging textiles, clothing, food items, or promotional materials. Whether you need to store, display, or transport goods, our Gusseted Bags provide a reliable and adaptable solution to meet your requirements.",
+    "images": []
+  },
+  {
+    "id": "a1bf782",
+    "type": "heading.default",
+    "text": "See More >>>",
+    "images": []
+  },
+  {
+    "id": "6ed8faf",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "411",
+        "height": "271",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/house-542adf51.webp.png",
+        "class": "attachment-large size-large wp-image-242",
+        "alt": "House",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2023/12/house-542adf51.webp.png 411w, https://dkwplastics.com/wp-content/uploads/2023/12/house-542adf51.webp-300x198.png 300w",
+        "sizes": "(max-width: 411px) 100vw, 411px"
+      }
+    ]
+  },
+  {
+    "id": "f9f3c64",
+    "type": "heading.default",
+    "text": "Household Items",
+    "images": []
+  },
+  {
+    "id": "e66550e",
+    "type": "text-editor.default",
+    "text": "Explore our household essentials, featuring robust Garbage Bags and customized, styled Table Cloths. Our Garbage Bags have been tested for durability to minimize leaks and tears, while our Table Cloths bring style and protection to your dining space. Elevate your home with these functional and fashionable solutions.",
+    "images": []
+  },
+  {
+    "id": "19413f7",
+    "type": "heading.default",
+    "text": "See More >>>",
+    "images": []
+  },
+  {
+    "id": "95afeb1",
+    "type": "heading.default",
+    "text": "Our Services",
+    "images": []
+  },
+  {
+    "id": "5d9359c",
+    "type": "text-editor.default",
+    "text": "At our Poly Packaging Factory, we offer a comprehensive range of services to complement our high-quality packaging products.\nWith our expertise, advanced technology, and commitment to customer satisfaction, we strive to provide exceptional value to our clients.\nHere are some of the services we provide:",
+    "images": []
+  },
+  {
+    "id": "039d309",
+    "type": "html.default",
+    "text": "Recycling Scheme   We will buy eligible plastics products for recycling. Please reach out to obtain further details on what we can recycle. On-time Delivery   We take pride in our 98% on-time delivery rate, showcasing our commitment to meeting deadlines and satisfying our clients. Scalable Production   Our state-of-the-art facility has a production capacity of 500 tons per month, ensuring timely delivery of high-quality products. < >",
+    "images": [
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/recycle.png"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/hkjjg-150x150.png"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/Rectangle-17d-150x150.png"
+      }
+    ]
+  },
+  {
+    "id": "0145dda",
+    "type": "heading.default",
+    "text": "Global Exposure",
+    "images": []
+  },
+  {
+    "id": "196d9b2",
+    "type": "text-editor.default",
+    "text": "With a commitment to delivering top-quality packaging solutions, our Poly Packaging Factory has gained global exposure in the industry. Over the years, we have successfully served clients not only in our local market but also across international borders.  Our global exposure has allowed us to expand our reach and cater to the diverse packaging needs of businesses worldwide.",
+    "images": []
+  },
+  {
+    "id": "31b4e6b",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "839",
+        "height": "425",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/Screenshot-2023-12-11-120651.png",
+        "class": "attachment-large size-large wp-image-108",
+        "alt": "Map",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2023/12/Screenshot-2023-12-11-120651.png 839w, https://dkwplastics.com/wp-content/uploads/2023/12/Screenshot-2023-12-11-120651-600x304.png 600w, https://dkwplastics.com/wp-content/uploads/2023/12/Screenshot-2023-12-11-120651-300x152.png 300w, https://dkwplastics.com/wp-content/uploads/2023/12/Screenshot-2023-12-11-120651-768x389.png 768w",
+        "sizes": "(max-width: 839px) 100vw, 839px"
+      }
+    ]
+  },
+  {
+    "id": "5f5b449",
+    "type": "heading.default",
+    "text": "Customize your packaging",
+    "images": []
+  },
+  {
+    "id": "d81d8f2",
+    "type": "text-editor.default",
+    "text": "At our Poly Packaging Factory, we understand that every business has unique packaging requirements. That’s why we offer a comprehensive range of customization options to ensure that your packaging solution perfectly aligns with your brand and product specifications. With our expertise, state-of-the-art technology, and commitment to customer satisfaction, we can transform your packaging vision into reality. Reach out to discuss how we can help you create custom packaging products.",
+    "images": []
+  },
+  {
+    "id": "b17de69",
+    "type": "button.default",
+    "text": "Get Started",
+    "images": []
+  },
+  {
+    "id": "a478207",
+    "type": "image.default",
+    "text": "",
+    "images": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "401",
+        "height": "261",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/ship-e4961f92.webp.png",
+        "class": "attachment-large size-large wp-image-109",
+        "alt": "Home Image",
+        "srcset": "https://dkwplastics.com/wp-content/uploads/2023/12/ship-e4961f92.webp.png 401w, https://dkwplastics.com/wp-content/uploads/2023/12/ship-e4961f92.webp-300x195.png 300w",
+        "sizes": "(max-width: 401px) 100vw, 401px"
+      }
+    ]
+  },
+  {
+    "id": "cd26501",
+    "type": "heading.default",
+    "text": "Hear from Customers",
+    "images": []
+  },
+  {
+    "id": "20fec20",
+    "type": "testimonial-carousel.default",
+    "text": "[SVG]",
+    "images": [
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/Untitled-design-1.png",
+        "alt": "Wijeya Products: Ensuring Quality"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/Untitled-design-2.png",
+        "alt": "Lalan Rubber: Weathering the Elements"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/sl-air.png",
+        "alt": "Sri Lankan Airlines: Convenience in the Skies"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/hof.png",
+        "alt": "House of Fashion"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/Untitled-design-1.png",
+        "alt": "Wijeya Products: Ensuring Quality"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/Untitled-design-2.png",
+        "alt": "Lalan Rubber: Weathering the Elements"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/sl-air.png",
+        "alt": "Sri Lankan Airlines: Convenience in the Skies"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/hof.png",
+        "alt": "House of Fashion"
+      }
+    ]
+  },
+  {
+    "id": "552ab7d",
+    "type": "testimonial-carousel.default",
+    "text": "[SVG]",
+    "images": [
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/Untitled-design-1.png",
+        "alt": "Wijeya Products: Ensuring Quality"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/Untitled-design-2.png",
+        "alt": "Lalan Rubber: Weathering the Elements"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/sl-air.png",
+        "alt": "Sri Lankan Airlines: Convenience in the Skies"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/hof.png",
+        "alt": "House of Fashion"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/Untitled-design-1.png",
+        "alt": "Wijeya Products: Ensuring Quality"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/Untitled-design-2.png",
+        "alt": "Lalan Rubber: Weathering the Elements"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/sl-air.png",
+        "alt": "Sri Lankan Airlines: Convenience in the Skies"
+      },
+      {
+        "decoding": "async",
+        "src": "./Sri Lanka's Plastic Manufacturing Expert - DKW Plastics_files/hof.png",
+        "alt": "House of Fashion"
+      }
+    ]
+  },
+  {
+    "id": "ba2bccf",
+    "type": "heading.default",
+    "text": "©️ All Rights Reserved 2024 | DKW Plastic Industries",
+    "images": []
+  },
+  {
+    "id": "a599513",
+    "type": "heading.default",
+    "text": "Developed by CircuitX",
+    "images": []
+  }
+]

@@ -1,0 +1,24 @@
+.dkw-contact-page { min-height: 100vh; display: flex; flex-direction: column; }
+.dkw-contact-page .contact-page-header { min-height: 39vh; }
+.dkw-contact-page .contact-content { width: calc(100% - 40px); max-width: 1140px; min-height: 100vh; margin-inline: auto; padding-block: 80px; flex: 1; }
+.quote-form { width: 100%; color: #333; }
+.quote-form-row { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 30px; }
+.quote-field { display: flex; flex-direction: column; margin-bottom: 30px; min-width: 0; }
+.quote-field label { color: #777771; font-size: 12px; font-weight: 700; line-height: 1.7; margin-bottom: 8px; }
+.quote-field label span { color: #e04562; }
+.quote-field input, .quote-field select, .quote-field textarea { width: 100%; max-width: 100%; background: #ededed; border: 1px solid #777771; border-radius: 15px; padding: 9px 14px; color: #000; font: inherit; font-size: 16px; line-height: 1.5; min-height: 44px; }
+.quote-field input::placeholder { color: #888; opacity: 1; }
+.quote-field input:focus, .quote-field select:focus, .quote-field textarea:focus { outline: 2px solid #17a8e3; outline-offset: 1px; background: #e6e6e6; }
+.quote-field textarea { resize: vertical; min-height: 140px; }
+.quote-character-count { text-align: right; font-size: 12px; color: #777; line-height: 1.5; margin-top: 6px; }
+.quote-submit { border: 0; border-radius: 7px; background: #3561c2; color: white; padding: 10px 20px; font-weight: 500; font-size: 14px; min-height: 42px; }
+.quote-submit:hover { background: #008fca; }
+.quote-email-note { color: #666; font-size: 12px; padding-top: 15px; }
+.quote-draft-status { margin-top: 20px !important; padding: 16px; background: #edf4fc; border-left: 3px solid #3565a7; font-size: 13px; }
+.dkw .quote-draft-status a { text-decoration: underline; color: #234875; }
+@media (max-width: 767px) {
+  .dkw-contact-page .contact-page-header { min-height: 16vh; }
+  .dkw-contact-page .contact-content { width: calc(100% - 30px); padding-block: 80px; }
+  .quote-form-row { grid-template-columns: 1fr; gap: 0; }
+  .quote-field { margin-bottom: 22px; }
+}

@@ -1,0 +1,266 @@
+{
+  "homepage": "http://localhost:3000",
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "bytes": 35718,
+      "starterRemoved": true
+    },
+    {
+      "path": "/sites/dkwplastics/1.1-LH-217x300.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 38759
+    },
+    {
+      "path": "/sites/dkwplastics/1.10-254x300.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 41526
+    },
+    {
+      "path": "/sites/dkwplastics/1.11-138x300.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 42942
+    },
+    {
+      "path": "/sites/dkwplastics/1.2.flora_-190x300.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 55678
+    },
+    {
+      "path": "/sites/dkwplastics/1.3noli-213x300.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 26817
+    },
+    {
+      "path": "/sites/dkwplastics/1.3odeal-214x300.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 27625
+    },
+    {
+      "path": "/sites/dkwplastics/1.3ZL-Spare-198x300.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 66621
+    },
+    {
+      "path": "/sites/dkwplastics/1.4.1-208x300.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 68379
+    },
+    {
+      "path": "/sites/dkwplastics/1.4.Nursery-237x300.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 45263
+    },
+    {
+      "path": "/sites/dkwplastics/1.5kruak-236x300.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 131561
+    },
+    {
+      "path": "/sites/dkwplastics/1.5ruby-192x300.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 49022
+    },
+    {
+      "path": "/sites/dkwplastics/1.6-283x300.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 73309
+    },
+    {
+      "path": "/sites/dkwplastics/1.7rain-300x300.jpeg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 27978
+    },
+    {
+      "path": "/sites/dkwplastics/1.8-300x292.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 71738
+    },
+    {
+      "path": "/sites/dkwplastics/1.9-300x227.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 50187
+    },
+    {
+      "path": "/sites/dkwplastics/410_farm-6475205f.webp.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 178507
+    },
+    {
+      "path": "/sites/dkwplastics/Copy-of-Dilmah.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 339377
+    },
+    {
+      "path": "/sites/dkwplastics/dkw-logo.svg",
+      "status": 200,
+      "type": "image/svg+xml",
+      "bytes": 14223
+    },
+    {
+      "path": "/sites/dkwplastics/Fashion-Bug-Final-1024x269.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 133407
+    },
+    {
+      "path": "/sites/dkwplastics/food-2fb38c05.webp.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 278647
+    },
+    {
+      "path": "/sites/dkwplastics/garment-ee30ddca.webp.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 87326
+    },
+    {
+      "path": "/sites/dkwplastics/guss-cccdba24.webp.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 274106
+    },
+    {
+      "path": "/sites/dkwplastics/hero-background.jpg",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": 481608
+    },
+    {
+      "path": "/sites/dkwplastics/hkjjg-150x150.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 42488
+    },
+    {
+      "path": "/sites/dkwplastics/hof.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 8758
+    },
+    {
+      "path": "/sites/dkwplastics/house-542adf51.webp.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 158191
+    },
+    {
+      "path": "/sites/dkwplastics/HouseofFashion.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 16996
+    },
+    {
+      "path": "/sites/dkwplastics/LalanRubbers.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 2577
+    },
+    {
+      "path": "/sites/dkwplastics/Odelwhite-1024x392.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 49285
+    },
+    {
+      "path": "/sites/dkwplastics/poly-c60b2b9b.webp.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 192387
+    },
+    {
+      "path": "/sites/dkwplastics/Rectangle-17d-150x150.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 37509
+    },
+    {
+      "path": "/sites/dkwplastics/recycle.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 30404
+    },
+    {
+      "path": "/sites/dkwplastics/red-hat-display-latin.woff2",
+      "status": 200,
+      "type": "font/woff2",
+      "bytes": 30672
+    },
+    {
+      "path": "/sites/dkwplastics/Screenshot-2023-12-11-120651.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 101581
+    },
+    {
+      "path": "/sites/dkwplastics/ship-e4961f92.webp.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 123694
+    },
+    {
+      "path": "/sites/dkwplastics/sl-air.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 23360
+    },
+    {
+      "path": "/sites/dkwplastics/textile-d979efb0.webp.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 198857
+    },
+    {
+      "path": "/sites/dkwplastics/Untitled-design-1.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 129667
+    },
+    {
+      "path": "/sites/dkwplastics/Untitled-design-2.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 69886
+    },
+    {
+      "path": "/sites/dkwplastics/webuop-imgp-1024x481.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 592963
+    },
+    {
+      "path": "/sites/dkwplastics/Wijeya-Products-Final-1024x593.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 256054
+    },
+    {
+      "path": "/sites/dkwplastics/ziplocks-c7cf2dd5.webp.png",
+      "status": 200,
+      "type": "image/png",
+      "bytes": 130377
+    }
+  ],
+  "failures": [],
+  "visualReview": "Desktop and mobile hero compared with source. Mobile menu, local reviews anchor, and testimonial navigation checked in Chrome."
+}

@@ -1,0 +1,15 @@
+.article-share { margin-block: 35px; }
+.dkw .article-share > h3 { color: #333; font-size: 18px; line-height: 1.5; font-weight: 600; margin: 0 0 18px; }
+.article-share-buttons { display: flex; flex-wrap: wrap; gap: 10px; }
+.article-share-button { display: inline-grid; place-items: center; width: 48px; height: 48px; padding: 12px; border: 2px solid currentColor; border-radius: 50%; background: transparent; transition: background-color .2s, color .2s; }
+.article-share-facebook { color: #3b5998; --share-network-color: #3b5998; }
+.article-share-twitter { color: #1da1f2; --share-network-color: #1da1f2; }
+.article-share-whatsapp { color: #25d366; --share-network-color: #25d366; }
+.article-share-pinterest { color: #bd081c; --share-network-color: #bd081c; }
+.article-share-button:hover { background: var(--share-network-color); border-color: var(--share-network-color); color: white; }
+.article-share-icon { display: block; width: 20px; height: 20px; background-color: currentColor; mask-position: center; mask-size: contain; mask-repeat: no-repeat; }
+.article-share-icon-facebook { mask-image: url("/sites/dkwplastics/share-facebook.svg"); }
+.article-share-icon-twitter { mask-image: url("/sites/dkwplastics/share-twitter.svg"); }
+.article-share-icon-whatsapp { mask-image: url("/sites/dkwplastics/share-whatsapp.svg"); }
+.article-share-icon-pinterest { mask-image: url("/sites/dkwplastics/share-pinterest.svg"); }
+@media (prefers-reduced-motion: reduce) { .article-share-button { transition: none; } }

@@ -1,0 +1,1237 @@
+{
+  "pages": [
+    {
+      "url": "https://dkwplastics.com/",
+      "slug": "",
+      "file": "home.html"
+    },
+    {
+      "url": "https://dkwplastics.com/shop/",
+      "slug": "shop",
+      "file": "shop.html"
+    },
+    {
+      "url": "https://dkwplastics.com/contact-us/",
+      "slug": "contact-us",
+      "file": "contact-us.html"
+    },
+    {
+      "url": "https://dkwplastics.com/blog/",
+      "slug": "blog",
+      "file": "blog.html"
+    },
+    {
+      "url": "https://dkwplastics.com/the-evolution-of-reusable-ziplock-bags/",
+      "slug": "the-evolution-of-reusable-ziplock-bags",
+      "file": "the-evolution-of-reusable-ziplock-bags.html"
+    },
+    {
+      "url": "https://dkwplastics.com/how-to-recycle-ldpe-essential-guide-for-businesses/",
+      "slug": "how-to-recycle-ldpe-essential-guide-for-businesses",
+      "file": "how-to-recycle-ldpe-essential-guide-for-businesses.html"
+    },
+    {
+      "url": "https://dkwplastics.com/a-deep-dive-into-dkw-plastic-recycling/",
+      "slug": "a-deep-dive-into-dkw-plastic-recycling",
+      "file": "a-deep-dive-into-dkw-plastic-recycling.html"
+    },
+    {
+      "url": "https://dkwplastics.com/role-of-food-safe-packaging-in-the-food-industry/",
+      "slug": "role-of-food-safe-packaging-in-the-food-industry",
+      "file": "role-of-food-safe-packaging-in-the-food-industry.html"
+    },
+    {
+      "url": "https://dkwplastics.com/exploring-uses-of-plastic-packaging/",
+      "slug": "exploring-uses-of-plastic-packaging",
+      "file": "exploring-uses-of-plastic-packaging.html"
+    },
+    {
+      "url": "https://dkwplastics.com/how-use-food-grade-packaging-for-wijaya-products/",
+      "slug": "how-use-food-grade-packaging-for-wijaya-products",
+      "file": "how-use-food-grade-packaging-for-wijaya-products.html"
+    },
+    {
+      "url": "https://dkwplastics.com/5-essential-commercial-uses-of-resealable-ziplock-bags/",
+      "slug": "5-essential-commercial-uses-of-resealable-ziplock-bags",
+      "file": "5-essential-commercial-uses-of-resealable-ziplock-bags.html"
+    },
+    {
+      "url": "https://dkwplastics.com/a-comprehensive-guide-to-food-grade-packaging/",
+      "slug": "a-comprehensive-guide-to-food-grade-packaging",
+      "file": "a-comprehensive-guide-to-food-grade-packaging.html"
+    }
+  ],
+  "assets": {
+    "https://dkwplastics.com/wp-content/litespeed/css/0a989e708374bfd81803fac7147f5ae3.css?ver=4030a": {
+      "local": "/sites/dkwplastics/fullsite/36f24a2d37-0a989e708374bfd81803fac7147f5ae3.css",
+      "type": "text/css",
+      "bytes": 1890914
+    },
+    "https://dkwplastics.com/wp-content/litespeed/css/1facad9902ff07f2d2d25647a7a4b468.css?ver=4030a": {
+      "local": "/sites/dkwplastics/fullsite/ffa0648e21-1facad9902ff07f2d2d25647a7a4b468.css",
+      "type": "text/css",
+      "bytes": 1704767
+    },
+    "https://dkwplastics.com/wp-content/litespeed/css/53c364880c541b7081b3da457f113dc1.css?ver=4030a": {
+      "local": "/sites/dkwplastics/fullsite/cf7abd5aed-53c364880c541b7081b3da457f113dc1.css",
+      "type": "text/css",
+      "bytes": 1711391
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/1.1-RubyZipLock.png": {
+      "local": "/sites/dkwplastics/fullsite/51cea803c6-1.1-RubyZipLock.png",
+      "type": "image/png",
+      "bytes": 197569
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/1.2-NissanZipLock.png": {
+      "local": "/sites/dkwplastics/fullsite/614a0d2d8c-1.2-NissanZipLock.png",
+      "type": "image/png",
+      "bytes": 306977
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/1.3-CebexZipLock.png": {
+      "local": "/sites/dkwplastics/fullsite/fd60cd55b0-1.3-CebexZipLock.png",
+      "type": "image/png",
+      "bytes": 252110
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/1.4-FloraZipLock.png": {
+      "local": "/sites/dkwplastics/fullsite/2622cb6d83-1.4-FloraZipLock.png",
+      "type": "image/png",
+      "bytes": 240081
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/1.5-PillsZiplock.png": {
+      "local": "/sites/dkwplastics/fullsite/390940aa8e-1.5-PillsZiplock.png",
+      "type": "image/png",
+      "bytes": 340107
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/1.6-Size-Range.jpg": {
+      "local": "/sites/dkwplastics/fullsite/ed8b919c06-1.6-Size-Range.jpg",
+      "type": "image/jpeg",
+      "bytes": 68702
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/2.1-LDPE.png": {
+      "local": "/sites/dkwplastics/fullsite/09f4cca64c-2.1-LDPE.png",
+      "type": "image/png",
+      "bytes": 256502
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/2.10-PP.png": {
+      "local": "/sites/dkwplastics/fullsite/b8dd0e976a-2.10-PP.png",
+      "type": "image/png",
+      "bytes": 214744
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/2.4-LDPE.png": {
+      "local": "/sites/dkwplastics/fullsite/68fe779c86-2.4-LDPE.png",
+      "type": "image/png",
+      "bytes": 290836
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/2.5-LDPE.png": {
+      "local": "/sites/dkwplastics/fullsite/3c1da8af7b-2.5-LDPE.png",
+      "type": "image/png",
+      "bytes": 346112
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/2.6-LDPE.png": {
+      "local": "/sites/dkwplastics/fullsite/21ece77aff-2.6-LDPE.png",
+      "type": "image/png",
+      "bytes": 361593
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/2.7-HDPE.png": {
+      "local": "/sites/dkwplastics/fullsite/c182e67437-2.7-HDPE.png",
+      "type": "image/png",
+      "bytes": 179150
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/2.8-HDPE.png": {
+      "local": "/sites/dkwplastics/fullsite/75c48ce28e-2.8-HDPE.png",
+      "type": "image/png",
+      "bytes": 273402
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/2.9-PP.png": {
+      "local": "/sites/dkwplastics/fullsite/11eb8c1b6a-2.9-PP.png",
+      "type": "image/png",
+      "bytes": 416786
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/4.1-Nursery-Bags.png": {
+      "local": "/sites/dkwplastics/fullsite/08faa15af0-4.1-Nursery-Bags.png",
+      "type": "image/png",
+      "bytes": 573950
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/4.2-Three-Layer-Film.png": {
+      "local": "/sites/dkwplastics/fullsite/417f7e8ed4-4.2-Three-Layer-Film.png",
+      "type": "image/png",
+      "bytes": 871490
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/4.3-Three-Layer-Rain-Guard.png": {
+      "local": "/sites/dkwplastics/fullsite/5b9af9d842-4.3-Three-Layer-Rain-Guard.png",
+      "type": "image/png",
+      "bytes": 579793
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/4.4-Two-Layer-Coextrusion.png": {
+      "local": "/sites/dkwplastics/fullsite/56ee6f763d-4.4-Two-Layer-Coextrusion.png",
+      "type": "image/png",
+      "bytes": 708367
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/410_farm-6475205f.webp-300x198.png": {
+      "local": "/sites/dkwplastics/fullsite/2b6a34f65f-410_farm-6475205f.webp-300x198.png",
+      "type": "image/png",
+      "bytes": 102900
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/410_farm-6475205f.webp.png": {
+      "local": "/sites/dkwplastics/fullsite/6f1624c59a-410_farm-6475205f.webp.png",
+      "type": "image/png",
+      "bytes": 178507
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/6.1-Multi-Color-Polythene-Reels.png": {
+      "local": "/sites/dkwplastics/fullsite/a71ead676a-6.1-Multi-Color-Polythene-Reels.png",
+      "type": "image/png",
+      "bytes": 458909
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/6.2-Plain-Polythene-Reels.png": {
+      "local": "/sites/dkwplastics/fullsite/a9f1add233-6.2-Plain-Polythene-Reels.png",
+      "type": "image/png",
+      "bytes": 234792
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/7.1-Gusset-Bags.png": {
+      "local": "/sites/dkwplastics/fullsite/545113887e-7.1-Gusset-Bags.png",
+      "type": "image/png",
+      "bytes": 653564
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/8.1-Garbage-Bags.png": {
+      "local": "/sites/dkwplastics/fullsite/794534bb64-8.1-Garbage-Bags.png",
+      "type": "image/png",
+      "bytes": 668924
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/8.2-Designed-Polythene-Tablecloth.png": {
+      "local": "/sites/dkwplastics/fullsite/78e9b34f7a-8.2-Designed-Polythene-Tablecloth.png",
+      "type": "image/png",
+      "bytes": 1564681
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/8.3-Designed_Table_Cloth-scaled.jpg": {
+      "local": "/sites/dkwplastics/fullsite/54485baa00-8.3-Designed_Table_Cloth-scaled.jpg",
+      "type": "image/jpeg",
+      "bytes": 385576
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/8.4-Designed_Table_Cloth.png": {
+      "local": "/sites/dkwplastics/fullsite/a41e86e581-8.4-Designed_Table_Cloth.png",
+      "type": "image/png",
+      "bytes": 778922
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/LDPE.png": {
+      "local": "/sites/dkwplastics/fullsite/3245602515-LDPE.png",
+      "type": "image/png",
+      "bytes": 341853
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/PP.png": {
+      "local": "/sites/dkwplastics/fullsite/4318e154b2-PP.png",
+      "type": "image/png",
+      "bytes": 129361
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/Rectangle-17d-150x150.png": {
+      "local": "/sites/dkwplastics/fullsite/6a6d294e8c-Rectangle-17d-150x150.png",
+      "type": "image/png",
+      "bytes": 37509
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/Screenshot-2023-12-11-120651-300x152.png": {
+      "local": "/sites/dkwplastics/fullsite/8751cb4dbf-Screenshot-2023-12-11-120651-300x152.png",
+      "type": "image/png",
+      "bytes": 25729
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/Screenshot-2023-12-11-120651-600x304.png": {
+      "local": "/sites/dkwplastics/fullsite/f739adbe6f-Screenshot-2023-12-11-120651-600x304.png",
+      "type": "image/png",
+      "bytes": 72755
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/Screenshot-2023-12-11-120651-768x389.png": {
+      "local": "/sites/dkwplastics/fullsite/29add2b70f-Screenshot-2023-12-11-120651-768x389.png",
+      "type": "image/png",
+      "bytes": 104203
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/Screenshot-2023-12-11-120651.png": {
+      "local": "/sites/dkwplastics/fullsite/fa8cd2e417-Screenshot-2023-12-11-120651.png",
+      "type": "image/png",
+      "bytes": 101581
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/food-2fb38c05.webp-300x198.png": {
+      "local": "/sites/dkwplastics/fullsite/4e9ae7fa6f-food-2fb38c05.webp-300x198.png",
+      "type": "image/png",
+      "bytes": 147016
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/food-2fb38c05.webp.png": {
+      "local": "/sites/dkwplastics/fullsite/ff77bab6af-food-2fb38c05.webp.png",
+      "type": "image/png",
+      "bytes": 278647
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/garment-ee30ddca.webp-300x198.png": {
+      "local": "/sites/dkwplastics/fullsite/f0fbc4b8ed-garment-ee30ddca.webp-300x198.png",
+      "type": "image/png",
+      "bytes": 50031
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/garment-ee30ddca.webp.png": {
+      "local": "/sites/dkwplastics/fullsite/fa03b91526-garment-ee30ddca.webp.png",
+      "type": "image/png",
+      "bytes": 87326
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/guss-cccdba24.webp-300x198.png": {
+      "local": "/sites/dkwplastics/fullsite/3e942d04be-guss-cccdba24.webp-300x198.png",
+      "type": "image/png",
+      "bytes": 139993
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/guss-cccdba24.webp.png": {
+      "local": "/sites/dkwplastics/fullsite/62c36147ea-guss-cccdba24.webp.png",
+      "type": "image/png",
+      "bytes": 274106
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/hkjjg-150x150.png": {
+      "local": "/sites/dkwplastics/fullsite/292bd12a50-hkjjg-150x150.png",
+      "type": "image/png",
+      "bytes": 42488
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/hof.png": {
+      "local": "/sites/dkwplastics/fullsite/d47014cb8c-hof.png",
+      "type": "image/png",
+      "bytes": 8758
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/house-542adf51.webp-300x198.png": {
+      "local": "/sites/dkwplastics/fullsite/ce85e38cfc-house-542adf51.webp-300x198.png",
+      "type": "image/png",
+      "bytes": 84609
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/house-542adf51.webp.png": {
+      "local": "/sites/dkwplastics/fullsite/0e11bdd6eb-house-542adf51.webp.png",
+      "type": "image/png",
+      "bytes": 158191
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/mage-from-rawpixel-id-896813-jpeg.jpg": {
+      "local": "/sites/dkwplastics/fullsite/3c77a13a97-mage-from-rawpixel-id-896813-jpeg.jpg",
+      "type": "image/jpeg",
+      "bytes": 481608
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/poly-c60b2b9b.webp-300x198.png": {
+      "local": "/sites/dkwplastics/fullsite/549a4f4fba-poly-c60b2b9b.webp-300x198.png",
+      "type": "image/png",
+      "bytes": 101055
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/poly-c60b2b9b.webp.png": {
+      "local": "/sites/dkwplastics/fullsite/7fe5b9317e-poly-c60b2b9b.webp.png",
+      "type": "image/png",
+      "bytes": 192387
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/ship-e4961f92.webp-300x195.png": {
+      "local": "/sites/dkwplastics/fullsite/25910909cf-ship-e4961f92.webp-300x195.png",
+      "type": "image/png",
+      "bytes": 73230
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/ship-e4961f92.webp.png": {
+      "local": "/sites/dkwplastics/fullsite/3cd1a397a8-ship-e4961f92.webp.png",
+      "type": "image/png",
+      "bytes": 123694
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/sl-air.png": {
+      "local": "/sites/dkwplastics/fullsite/4a965df87e-sl-air.png",
+      "type": "image/png",
+      "bytes": 23360
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/textile-d979efb0.webp-300x198.png": {
+      "local": "/sites/dkwplastics/fullsite/00837af83f-textile-d979efb0.webp-300x198.png",
+      "type": "image/png",
+      "bytes": 108771
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/textile-d979efb0.webp.png": {
+      "local": "/sites/dkwplastics/fullsite/6d6b820cdd-textile-d979efb0.webp.png",
+      "type": "image/png",
+      "bytes": 198857
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/webuop-imgp-1024x481.png": {
+      "local": "/sites/dkwplastics/fullsite/564d451cdc-webuop-imgp-1024x481.png",
+      "type": "image/png",
+      "bytes": 592963
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/webuop-imgp-300x141.png": {
+      "local": "/sites/dkwplastics/fullsite/114d7efa94-webuop-imgp-300x141.png",
+      "type": "image/png",
+      "bytes": 76374
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/webuop-imgp-600x282.png": {
+      "local": "/sites/dkwplastics/fullsite/e3ee13afaa-webuop-imgp-600x282.png",
+      "type": "image/png",
+      "bytes": 249214
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/webuop-imgp-768x361.png": {
+      "local": "/sites/dkwplastics/fullsite/952b50a50b-webuop-imgp-768x361.png",
+      "type": "image/png",
+      "bytes": 375048
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/webuop-imgp.png": {
+      "local": "/sites/dkwplastics/fullsite/ba2b8deff7-webuop-imgp.png",
+      "type": "image/png",
+      "bytes": 896550
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/ziplocks-c7cf2dd5.webp-300x198.png": {
+      "local": "/sites/dkwplastics/fullsite/346fbfb0a5-ziplocks-c7cf2dd5.webp-300x198.png",
+      "type": "image/png",
+      "bytes": 71970
+    },
+    "https://dkwplastics.com/wp-content/uploads/2023/12/ziplocks-c7cf2dd5.webp.png": {
+      "local": "/sites/dkwplastics/fullsite/8c8b8a4ec3-ziplocks-c7cf2dd5.webp.png",
+      "type": "image/png",
+      "bytes": 130377
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/1.1-LH-217x300.png": {
+      "local": "/sites/dkwplastics/fullsite/fb9d01dc4c-1.1-LH-217x300.png",
+      "type": "image/png",
+      "bytes": 38759
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/1.10-254x300.png": {
+      "local": "/sites/dkwplastics/fullsite/5d1b62e50f-1.10-254x300.png",
+      "type": "image/png",
+      "bytes": 41526
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/1.11-138x300.png": {
+      "local": "/sites/dkwplastics/fullsite/670d5f99de-1.11-138x300.png",
+      "type": "image/png",
+      "bytes": 42942
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/1.2.flora_-190x300.png": {
+      "local": "/sites/dkwplastics/fullsite/877fbbc06e-1.2.flora_-190x300.png",
+      "type": "image/png",
+      "bytes": 55678
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/1.3ZL-Spare-198x300.png": {
+      "local": "/sites/dkwplastics/fullsite/95991064c5-1.3ZL-Spare-198x300.png",
+      "type": "image/png",
+      "bytes": 66621
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/1.3noli-213x300.png": {
+      "local": "/sites/dkwplastics/fullsite/d81dd0f524-1.3noli-213x300.png",
+      "type": "image/png",
+      "bytes": 26817
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/1.3odeal-214x300.png": {
+      "local": "/sites/dkwplastics/fullsite/2d1d05f81d-1.3odeal-214x300.png",
+      "type": "image/png",
+      "bytes": 27625
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/1.4.1-208x300.png": {
+      "local": "/sites/dkwplastics/fullsite/f5cf86eb41-1.4.1-208x300.png",
+      "type": "image/png",
+      "bytes": 68379
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/1.4.Nursery-237x300.png": {
+      "local": "/sites/dkwplastics/fullsite/30f555439d-1.4.Nursery-237x300.png",
+      "type": "image/png",
+      "bytes": 45263
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/1.5kruak-236x300.png": {
+      "local": "/sites/dkwplastics/fullsite/34d2269366-1.5kruak-236x300.png",
+      "type": "image/png",
+      "bytes": 131561
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/1.5ruby-192x300.png": {
+      "local": "/sites/dkwplastics/fullsite/9720a9968f-1.5ruby-192x300.png",
+      "type": "image/png",
+      "bytes": 49022
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/1.6-283x300.png": {
+      "local": "/sites/dkwplastics/fullsite/1694324c12-1.6-283x300.png",
+      "type": "image/png",
+      "bytes": 73309
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/1.7rain-300x300.jpeg": {
+      "local": "/sites/dkwplastics/fullsite/ab8465fb81-1.7rain-300x300.jpeg",
+      "type": "image/jpeg",
+      "bytes": 27978
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/1.8-300x292.png": {
+      "local": "/sites/dkwplastics/fullsite/7a5cf864b2-1.8-300x292.png",
+      "type": "image/png",
+      "bytes": 71738
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/1.9-300x227.png": {
+      "local": "/sites/dkwplastics/fullsite/609e5e336c-1.9-300x227.png",
+      "type": "image/png",
+      "bytes": 50187
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/3.1-PatchHandle.png": {
+      "local": "/sites/dkwplastics/fullsite/84e457055b-3.1-PatchHandle.png",
+      "type": "image/png",
+      "bytes": 81590
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/3.2-Patch-Handle.png": {
+      "local": "/sites/dkwplastics/fullsite/305858633d-3.2-Patch-Handle.png",
+      "type": "image/png",
+      "bytes": 55592
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/3.5-Carrier-Handle.png": {
+      "local": "/sites/dkwplastics/fullsite/81b374a9fd-3.5-Carrier-Handle.png",
+      "type": "image/png",
+      "bytes": 69966
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/3.6-Die-Cut-Handle.png": {
+      "local": "/sites/dkwplastics/fullsite/0b289bb3da-3.6-Die-Cut-Handle.png",
+      "type": "image/png",
+      "bytes": 61369
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/3.7-Kidney-Cut-Handle.jpg": {
+      "local": "/sites/dkwplastics/fullsite/4c18415aa8-3.7-Kidney-Cut-Handle.jpg",
+      "type": "image/jpeg",
+      "bytes": 24178
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/3.8-T_Shirt_Handle.jpg": {
+      "local": "/sites/dkwplastics/fullsite/345491d2d8-3.8-T_Shirt_Handle.jpg",
+      "type": "image/jpeg",
+      "bytes": 25576
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/5.1-Hanger-Bags.png": {
+      "local": "/sites/dkwplastics/fullsite/e4aac006f1-5.1-Hanger-Bags.png",
+      "type": "image/png",
+      "bytes": 500883
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/5.3-Envelope-Bags.png": {
+      "local": "/sites/dkwplastics/fullsite/6741a61603-5.3-Envelope-Bags.png",
+      "type": "image/png",
+      "bytes": 279648
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/5.4-Envelope-Bags.png": {
+      "local": "/sites/dkwplastics/fullsite/fe87fd9f44-5.4-Envelope-Bags.png",
+      "type": "image/png",
+      "bytes": 289475
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/5.5-Envelope-Bags.png": {
+      "local": "/sites/dkwplastics/fullsite/cbdff967d5-5.5-Envelope-Bags.png",
+      "type": "image/png",
+      "bytes": 187722
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Copy-of-Dilmah-300x204.png": {
+      "local": "/sites/dkwplastics/fullsite/225e5911b7-Copy-of-Dilmah-300x204.png",
+      "type": "image/png",
+      "bytes": 67178
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Copy-of-Dilmah-600x408.png": {
+      "local": "/sites/dkwplastics/fullsite/531ed65640-Copy-of-Dilmah-600x408.png",
+      "type": "image/png",
+      "bytes": 224920
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Copy-of-Dilmah.png": {
+      "local": "/sites/dkwplastics/fullsite/f5e58f6f32-Copy-of-Dilmah.png",
+      "type": "image/png",
+      "bytes": 339377
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Fashion-Bug-Final-1024x269.png": {
+      "local": "/sites/dkwplastics/fullsite/0b8a48a63b-Fashion-Bug-Final-1024x269.png",
+      "type": "image/png",
+      "bytes": 133407
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Fashion-Bug-Final-300x79.png": {
+      "local": "/sites/dkwplastics/fullsite/cbeffa4e68-Fashion-Bug-Final-300x79.png",
+      "type": "image/png",
+      "bytes": 16033
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Fashion-Bug-Final-600x158.png": {
+      "local": "/sites/dkwplastics/fullsite/54f8c4ceff-Fashion-Bug-Final-600x158.png",
+      "type": "image/png",
+      "bytes": 56811
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Fashion-Bug-Final-768x202.png": {
+      "local": "/sites/dkwplastics/fullsite/dd354c756a-Fashion-Bug-Final-768x202.png",
+      "type": "image/png",
+      "bytes": 88777
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Fashion-Bug-Final.png": {
+      "local": "/sites/dkwplastics/fullsite/dec2cadb47-Fashion-Bug-Final.png",
+      "type": "image/png",
+      "bytes": 195748
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/HouseofFashion-300x187.png": {
+      "local": "/sites/dkwplastics/fullsite/d5d4c79349-HouseofFashion-300x187.png",
+      "type": "image/png",
+      "bytes": 5713
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/HouseofFashion-600x375.png": {
+      "local": "/sites/dkwplastics/fullsite/5f96b074b1-HouseofFashion-600x375.png",
+      "type": "image/png",
+      "bytes": 14076
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/HouseofFashion-768x479.png": {
+      "local": "/sites/dkwplastics/fullsite/69905ebb81-HouseofFashion-768x479.png",
+      "type": "image/png",
+      "bytes": 19663
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/HouseofFashion.png": {
+      "local": "/sites/dkwplastics/fullsite/d8466382ec-HouseofFashion.png",
+      "type": "image/png",
+      "bytes": 16996
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/LalanRubbers-150x150.png": {
+      "local": "/sites/dkwplastics/fullsite/deff0a7d4f-LalanRubbers-150x150.png",
+      "type": "image/png",
+      "bytes": 5187
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/LalanRubbers-200x200.png": {
+      "local": "/sites/dkwplastics/fullsite/1a2c2f5fe5-LalanRubbers-200x200.png",
+      "type": "image/png",
+      "bytes": 7392
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/LalanRubbers.png": {
+      "local": "/sites/dkwplastics/fullsite/3f56efd427-LalanRubbers.png",
+      "type": "image/png",
+      "bytes": 2577
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Odelwhite-1024x392.png": {
+      "local": "/sites/dkwplastics/fullsite/aee8ee311b-Odelwhite-1024x392.png",
+      "type": "image/png",
+      "bytes": 49285
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Odelwhite-300x115.png": {
+      "local": "/sites/dkwplastics/fullsite/8c65c97bf0-Odelwhite-300x115.png",
+      "type": "image/png",
+      "bytes": 8767
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Odelwhite-600x229.png": {
+      "local": "/sites/dkwplastics/fullsite/ce3ca57373-Odelwhite-600x229.png",
+      "type": "image/png",
+      "bytes": 22986
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Odelwhite-768x294.png": {
+      "local": "/sites/dkwplastics/fullsite/b934b583e1-Odelwhite-768x294.png",
+      "type": "image/png",
+      "bytes": 32037
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Odelwhite.png": {
+      "local": "/sites/dkwplastics/fullsite/94ece5fab6-Odelwhite.png",
+      "type": "image/png",
+      "bytes": 71266
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Untitled-design-1.png": {
+      "local": "/sites/dkwplastics/fullsite/78da47babc-Untitled-design-1.png",
+      "type": "image/png",
+      "bytes": 129667
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Untitled-design-2.png": {
+      "local": "/sites/dkwplastics/fullsite/8096c78371-Untitled-design-2.png",
+      "type": "image/png",
+      "bytes": 69886
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Wijeya-Products-Final-1024x593.png": {
+      "local": "/sites/dkwplastics/fullsite/1286cd57ac-Wijeya-Products-Final-1024x593.png",
+      "type": "image/png",
+      "bytes": 256054
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Wijeya-Products-Final-1536x889.png": {
+      "local": "/sites/dkwplastics/fullsite/b4dd8e4fbc-Wijeya-Products-Final-1536x889.png",
+      "type": "image/png",
+      "bytes": 611356
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Wijeya-Products-Final-2048x1185.png": {
+      "local": "/sites/dkwplastics/fullsite/f354d9eaeb-Wijeya-Products-Final-2048x1185.png",
+      "type": "image/png",
+      "bytes": 902314
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Wijeya-Products-Final-300x174.png": {
+      "local": "/sites/dkwplastics/fullsite/57d8aaf2cf-Wijeya-Products-Final-300x174.png",
+      "type": "image/png",
+      "bytes": 26959
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Wijeya-Products-Final-600x347.png": {
+      "local": "/sites/dkwplastics/fullsite/8ce3866049-Wijeya-Products-Final-600x347.png",
+      "type": "image/png",
+      "bytes": 87559
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/Wijeya-Products-Final-768x444.png": {
+      "local": "/sites/dkwplastics/fullsite/5d85622b23-Wijeya-Products-Final-768x444.png",
+      "type": "image/png",
+      "bytes": 138245
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/01/recycle.png": {
+      "local": "/sites/dkwplastics/fullsite/7068d61889-recycle.png",
+      "type": "image/png",
+      "bytes": 30404
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/02/pasted-image-0-1024x585.png": {
+      "local": "/sites/dkwplastics/fullsite/42e2037f33-pasted-image-0-1024x585.png",
+      "type": "image/png",
+      "bytes": 742192
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/02/pasted-image-0-1536x877.png": {
+      "local": "/sites/dkwplastics/fullsite/c996796862-pasted-image-0-1536x877.png",
+      "type": "image/png",
+      "bytes": 1474747
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/02/pasted-image-0-300x171.png": {
+      "local": "/sites/dkwplastics/fullsite/16dfe88dd2-pasted-image-0-300x171.png",
+      "type": "image/png",
+      "bytes": 88138
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/02/pasted-image-0-600x343.png": {
+      "local": "/sites/dkwplastics/fullsite/99909bae56-pasted-image-0-600x343.png",
+      "type": "image/png",
+      "bytes": 295827
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/02/pasted-image-0-768x439.png": {
+      "local": "/sites/dkwplastics/fullsite/a1510f2763-pasted-image-0-768x439.png",
+      "type": "image/png",
+      "bytes": 453589
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/02/pasted-image-0.png": {
+      "local": "/sites/dkwplastics/fullsite/dfbf886985-pasted-image-0.png",
+      "type": "image/png",
+      "bytes": 1697560
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/03/resealable-ziplock-bags-1024x585.webp": {
+      "local": "/sites/dkwplastics/fullsite/02d8a7117e-resealable-ziplock-bags-1024x585.webp",
+      "type": "image/webp",
+      "bytes": 104584
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/03/resealable-ziplock-bags-1536x878.webp": {
+      "local": "/sites/dkwplastics/fullsite/8eb7e91edf-resealable-ziplock-bags-1536x878.webp",
+      "type": "image/webp",
+      "bytes": 180180
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/03/resealable-ziplock-bags-300x171.webp": {
+      "local": "/sites/dkwplastics/fullsite/5d05a43140-resealable-ziplock-bags-300x171.webp",
+      "type": "image/webp",
+      "bytes": 15018
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/03/resealable-ziplock-bags-600x343.webp": {
+      "local": "/sites/dkwplastics/fullsite/c33b33a342-resealable-ziplock-bags-600x343.webp",
+      "type": "image/webp",
+      "bytes": 46280
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/03/resealable-ziplock-bags-768x439.webp": {
+      "local": "/sites/dkwplastics/fullsite/f6c3207d97-resealable-ziplock-bags-768x439.webp",
+      "type": "image/webp",
+      "bytes": 67380
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/03/resealable-ziplock-bags.webp": {
+      "local": "/sites/dkwplastics/fullsite/747fb6c2b1-resealable-ziplock-bags.webp",
+      "type": "image/webp",
+      "bytes": 394940
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/03/wijaya-products-300x200.jpeg": {
+      "local": "/sites/dkwplastics/fullsite/7f277dc508-wijaya-products-300x200.jpeg",
+      "type": "image/jpeg",
+      "bytes": 44505
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/03/wijaya-products-600x400.jpeg": {
+      "local": "/sites/dkwplastics/fullsite/cec3742671-wijaya-products-600x400.jpeg",
+      "type": "image/jpeg",
+      "bytes": 101440
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/03/wijaya-products-768x512.jpeg": {
+      "local": "/sites/dkwplastics/fullsite/39723db6cb-wijaya-products-768x512.jpeg",
+      "type": "image/jpeg",
+      "bytes": 145143
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/03/wijaya-products.jpeg": {
+      "local": "/sites/dkwplastics/fullsite/571b691ae0-wijaya-products.jpeg",
+      "type": "image/jpeg",
+      "bytes": 244529
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/DALL\u00b7E-2024-04-08-16.05.28-A-captivating-featured-image-for-a-blog-post-titled-Exploring-Uses-of-Plastic-Packaging.-Incorporate-visual-elements-representing-various-types-of-p-1024x585.webp": {
+      "local": "/sites/dkwplastics/fullsite/bffa3a2d09-DALL-E-2024-04-08-16.05.28-A-captivating-featured-image-for-a-blog-post-titled-Exploring-U.webp",
+      "type": "image/webp",
+      "bytes": 75648
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/DALL\u00b7E-2024-04-08-16.05.28-A-captivating-featured-image-for-a-blog-post-titled-Exploring-Uses-of-Plastic-Packaging.-Incorporate-visual-elements-representing-various-types-of-p-1536x878.webp": {
+      "local": "/sites/dkwplastics/fullsite/6921343860-DALL-E-2024-04-08-16.05.28-A-captivating-featured-image-for-a-blog-post-titled-Exploring-U.webp",
+      "type": "image/webp",
+      "bytes": 141616
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/DALL\u00b7E-2024-04-08-16.05.28-A-captivating-featured-image-for-a-blog-post-titled-Exploring-Uses-of-Plastic-Packaging.-Incorporate-visual-elements-representing-various-types-of-p-300x171.webp": {
+      "local": "/sites/dkwplastics/fullsite/bbd24308fc-DALL-E-2024-04-08-16.05.28-A-captivating-featured-image-for-a-blog-post-titled-Exploring-U.webp",
+      "type": "image/webp",
+      "bytes": 12446
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/DALL\u00b7E-2024-04-08-16.05.28-A-captivating-featured-image-for-a-blog-post-titled-Exploring-Uses-of-Plastic-Packaging.-Incorporate-visual-elements-representing-various-types-of-p-600x343.webp": {
+      "local": "/sites/dkwplastics/fullsite/849e12ec65-DALL-E-2024-04-08-16.05.28-A-captivating-featured-image-for-a-blog-post-titled-Exploring-U.webp",
+      "type": "image/webp",
+      "bytes": 35000
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/DALL\u00b7E-2024-04-08-16.05.28-A-captivating-featured-image-for-a-blog-post-titled-Exploring-Uses-of-Plastic-Packaging.-Incorporate-visual-elements-representing-various-types-of-p-768x439.webp": {
+      "local": "/sites/dkwplastics/fullsite/d21a5d5a27-DALL-E-2024-04-08-16.05.28-A-captivating-featured-image-for-a-blog-post-titled-Exploring-U.webp",
+      "type": "image/webp",
+      "bytes": 50000
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/DALL\u00b7E-2024-04-08-16.05.28-A-captivating-featured-image-for-a-blog-post-titled-Exploring-Uses-of-Plastic-Packaging.-Incorporate-visual-elements-representing-various-types-of-p.webp": {
+      "local": "/sites/dkwplastics/fullsite/c44cd18f72-DALL-E-2024-04-08-16.05.28-A-captivating-featured-image-for-a-blog-post-titled-Exploring-U.webp",
+      "type": "image/webp",
+      "bytes": 453398
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/DALL\u00b7E-2024-04-08-16.08.25-A-captivating-featured-image-for-a-blog-post-titled-Exploring-Uses-of-Plastic-Packaging.-Incorporate-visual-elements-representing-various-types-of-p-1024x585.webp": {
+      "local": "/sites/dkwplastics/fullsite/cdbdf82d2f-DALL-E-2024-04-08-16.08.25-A-captivating-featured-image-for-a-blog-post-titled-Exploring-U.webp",
+      "type": "image/webp",
+      "bytes": 77694
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/DALL\u00b7E-2024-04-08-16.08.25-A-captivating-featured-image-for-a-blog-post-titled-Exploring-Uses-of-Plastic-Packaging.-Incorporate-visual-elements-representing-various-types-of-p-1536x878.webp": {
+      "local": "/sites/dkwplastics/fullsite/02e36df556-DALL-E-2024-04-08-16.08.25-A-captivating-featured-image-for-a-blog-post-titled-Exploring-U.webp",
+      "type": "image/webp",
+      "bytes": 138114
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/DALL\u00b7E-2024-04-08-16.08.25-A-captivating-featured-image-for-a-blog-post-titled-Exploring-Uses-of-Plastic-Packaging.-Incorporate-visual-elements-representing-various-types-of-p-300x171.webp": {
+      "local": "/sites/dkwplastics/fullsite/6a5286b4f1-DALL-E-2024-04-08-16.08.25-A-captivating-featured-image-for-a-blog-post-titled-Exploring-U.webp",
+      "type": "image/webp",
+      "bytes": 11058
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/DALL\u00b7E-2024-04-08-16.08.25-A-captivating-featured-image-for-a-blog-post-titled-Exploring-Uses-of-Plastic-Packaging.-Incorporate-visual-elements-representing-various-types-of-p-600x343.webp": {
+      "local": "/sites/dkwplastics/fullsite/9e8195b413-DALL-E-2024-04-08-16.08.25-A-captivating-featured-image-for-a-blog-post-titled-Exploring-U.webp",
+      "type": "image/webp",
+      "bytes": 33898
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/DALL\u00b7E-2024-04-08-16.08.25-A-captivating-featured-image-for-a-blog-post-titled-Exploring-Uses-of-Plastic-Packaging.-Incorporate-visual-elements-representing-various-types-of-p-768x439.webp": {
+      "local": "/sites/dkwplastics/fullsite/c95b66e2a1-DALL-E-2024-04-08-16.08.25-A-captivating-featured-image-for-a-blog-post-titled-Exploring-U.webp",
+      "type": "image/webp",
+      "bytes": 49548
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/DALL\u00b7E-2024-04-08-16.08.25-A-captivating-featured-image-for-a-blog-post-titled-Exploring-Uses-of-Plastic-Packaging.-Incorporate-visual-elements-representing-various-types-of-p.webp": {
+      "local": "/sites/dkwplastics/fullsite/daa4598ca2-DALL-E-2024-04-08-16.08.25-A-captivating-featured-image-for-a-blog-post-titled-Exploring-U.webp",
+      "type": "image/webp",
+      "bytes": 315906
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/food-safe-and-food-grade-packaging-1024x585.webp": {
+      "local": "/sites/dkwplastics/fullsite/bc1a215b4c-food-safe-and-food-grade-packaging-1024x585.webp",
+      "type": "image/webp",
+      "bytes": 122900
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/food-safe-and-food-grade-packaging-1536x878.webp": {
+      "local": "/sites/dkwplastics/fullsite/f25814a29a-food-safe-and-food-grade-packaging-1536x878.webp",
+      "type": "image/webp",
+      "bytes": 231190
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/food-safe-and-food-grade-packaging-300x171.webp": {
+      "local": "/sites/dkwplastics/fullsite/9f6a63eaf4-food-safe-and-food-grade-packaging-300x171.webp",
+      "type": "image/webp",
+      "bytes": 16392
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/food-safe-and-food-grade-packaging-600x343.webp": {
+      "local": "/sites/dkwplastics/fullsite/c8584b8b60-food-safe-and-food-grade-packaging-600x343.webp",
+      "type": "image/webp",
+      "bytes": 51058
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/food-safe-and-food-grade-packaging-768x439.webp": {
+      "local": "/sites/dkwplastics/fullsite/2deac1db70-food-safe-and-food-grade-packaging-768x439.webp",
+      "type": "image/webp",
+      "bytes": 77218
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/food-safe-and-food-grade-packaging.webp": {
+      "local": "/sites/dkwplastics/fullsite/7a17e3815b-food-safe-and-food-grade-packaging.webp",
+      "type": "image/webp",
+      "bytes": 490452
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/food-safe-packaging-1024x585.webp": {
+      "local": "/sites/dkwplastics/fullsite/cec9ff3151-food-safe-packaging-1024x585.webp",
+      "type": "image/webp",
+      "bytes": 88296
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/food-safe-packaging-1536x878.webp": {
+      "local": "/sites/dkwplastics/fullsite/8efebe4297-food-safe-packaging-1536x878.webp",
+      "type": "image/webp",
+      "bytes": 169966
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/food-safe-packaging-300x171.webp": {
+      "local": "/sites/dkwplastics/fullsite/67494469c8-food-safe-packaging-300x171.webp",
+      "type": "image/webp",
+      "bytes": 14136
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/food-safe-packaging-600x343.webp": {
+      "local": "/sites/dkwplastics/fullsite/54e0047e26-food-safe-packaging-600x343.webp",
+      "type": "image/webp",
+      "bytes": 38628
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/food-safe-packaging-768x439.webp": {
+      "local": "/sites/dkwplastics/fullsite/b41117927e-food-safe-packaging-768x439.webp",
+      "type": "image/webp",
+      "bytes": 54918
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/food-safe-packaging.webp": {
+      "local": "/sites/dkwplastics/fullsite/393922090e-food-safe-packaging.webp",
+      "type": "image/webp",
+      "bytes": 406676
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/plastic-packaging-1024x585.webp": {
+      "local": "/sites/dkwplastics/fullsite/57fc7b9f7e-plastic-packaging-1024x585.webp",
+      "type": "image/webp",
+      "bytes": 87064
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/plastic-packaging-1536x878.webp": {
+      "local": "/sites/dkwplastics/fullsite/c8eb81a279-plastic-packaging-1536x878.webp",
+      "type": "image/webp",
+      "bytes": 164360
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/plastic-packaging-300x171.webp": {
+      "local": "/sites/dkwplastics/fullsite/2dee234ea9-plastic-packaging-300x171.webp",
+      "type": "image/webp",
+      "bytes": 11958
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/plastic-packaging-600x343.webp": {
+      "local": "/sites/dkwplastics/fullsite/0676007bf6-plastic-packaging-600x343.webp",
+      "type": "image/webp",
+      "bytes": 36916
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/plastic-packaging-768x439.webp": {
+      "local": "/sites/dkwplastics/fullsite/7ddbefa221-plastic-packaging-768x439.webp",
+      "type": "image/webp",
+      "bytes": 54860
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/04/plastic-packaging.webp": {
+      "local": "/sites/dkwplastics/fullsite/e00d572e4c-plastic-packaging.webp",
+      "type": "image/webp",
+      "bytes": 388116
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/05/LDPE-Recycling-300x224.jpeg": {
+      "local": "/sites/dkwplastics/fullsite/65e5721e67-LDPE-Recycling-300x224.jpeg",
+      "type": "image/jpeg",
+      "bytes": 13256
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/05/LDPE-Recycling-600x448.jpeg": {
+      "local": "/sites/dkwplastics/fullsite/96b4936adf-LDPE-Recycling-600x448.jpeg",
+      "type": "image/jpeg",
+      "bytes": 42388
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/05/LDPE-Recycling-768x574.jpeg": {
+      "local": "/sites/dkwplastics/fullsite/67029fde79-LDPE-Recycling-768x574.jpeg",
+      "type": "image/jpeg",
+      "bytes": 62952
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/05/LDPE-Recycling.jpeg": {
+      "local": "/sites/dkwplastics/fullsite/febc460ae0-LDPE-Recycling.jpeg",
+      "type": "image/jpeg",
+      "bytes": 58456
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/05/plastic-recycling-300x200.webp": {
+      "local": "/sites/dkwplastics/fullsite/d46e948176-plastic-recycling-300x200.webp",
+      "type": "image/webp",
+      "bytes": 13836
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/05/plastic-recycling-600x400.webp": {
+      "local": "/sites/dkwplastics/fullsite/1994e26984-plastic-recycling-600x400.webp",
+      "type": "image/webp",
+      "bytes": 35966
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/05/plastic-recycling-768x512.webp": {
+      "local": "/sites/dkwplastics/fullsite/e1a5558853-plastic-recycling-768x512.webp",
+      "type": "image/webp",
+      "bytes": 48980
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/05/plastic-recycling-in-sri-lanka-1024x689.webp": {
+      "local": "/sites/dkwplastics/fullsite/fbce0521b7-plastic-recycling-in-sri-lanka-1024x689.webp",
+      "type": "image/webp",
+      "bytes": 42012
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/05/plastic-recycling-in-sri-lanka-1536x1033.webp": {
+      "local": "/sites/dkwplastics/fullsite/826de09d4f-plastic-recycling-in-sri-lanka-1536x1033.webp",
+      "type": "image/webp",
+      "bytes": 78186
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/05/plastic-recycling-in-sri-lanka-2048x1378.webp": {
+      "local": "/sites/dkwplastics/fullsite/39d13f1088-plastic-recycling-in-sri-lanka-2048x1378.webp",
+      "type": "image/webp",
+      "bytes": 116372
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/05/plastic-recycling-in-sri-lanka-300x202.webp": {
+      "local": "/sites/dkwplastics/fullsite/39dc5067d9-plastic-recycling-in-sri-lanka-300x202.webp",
+      "type": "image/webp",
+      "bytes": 6494
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/05/plastic-recycling-in-sri-lanka-600x404.webp": {
+      "local": "/sites/dkwplastics/fullsite/a4c3fcf9a5-plastic-recycling-in-sri-lanka-600x404.webp",
+      "type": "image/webp",
+      "bytes": 18424
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/05/plastic-recycling-in-sri-lanka-768x517.webp": {
+      "local": "/sites/dkwplastics/fullsite/427b1472e5-plastic-recycling-in-sri-lanka-768x517.webp",
+      "type": "image/webp",
+      "bytes": 26794
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/05/plastic-recycling-in-sri-lanka.webp": {
+      "local": "/sites/dkwplastics/fullsite/a0cb7c1d83-plastic-recycling-in-sri-lanka.webp",
+      "type": "image/webp",
+      "bytes": 158116
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/05/plastic-recycling.webp": {
+      "local": "/sites/dkwplastics/fullsite/96eb11bdc9-plastic-recycling.webp",
+      "type": "image/webp",
+      "bytes": 75516
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/06/reusable-ziplock-bags-1024x683.jpeg": {
+      "local": "/sites/dkwplastics/fullsite/f2e489ae72-reusable-ziplock-bags-1024x683.jpeg",
+      "type": "image/jpeg",
+      "bytes": 56893
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/06/reusable-ziplock-bags-300x200.jpeg": {
+      "local": "/sites/dkwplastics/fullsite/6376c56d1e-reusable-ziplock-bags-300x200.jpeg",
+      "type": "image/jpeg",
+      "bytes": 8145
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/06/reusable-ziplock-bags-600x400.jpeg": {
+      "local": "/sites/dkwplastics/fullsite/d46c9bb0eb-reusable-ziplock-bags-600x400.jpeg",
+      "type": "image/jpeg",
+      "bytes": 24173
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/06/reusable-ziplock-bags-768x512.jpeg": {
+      "local": "/sites/dkwplastics/fullsite/a3fa423e48-reusable-ziplock-bags-768x512.jpeg",
+      "type": "image/jpeg",
+      "bytes": 36490
+    },
+    "https://dkwplastics.com/wp-content/uploads/2024/06/reusable-ziplock-bags.jpeg": {
+      "local": "/sites/dkwplastics/fullsite/e9d76f60ff-reusable-ziplock-bags.jpeg",
+      "type": "image/jpeg",
+      "bytes": 102351
+    },
+    "https://dkwplastics.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff": {
+      "local": "/sites/dkwplastics/fullsite/cb43f0f6c4-fa-brands-400.woff",
+      "type": "font/woff",
+      "bytes": 97804
+    },
+    "https://dkwplastics.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2": {
+      "local": "/sites/dkwplastics/fullsite/612068d557-fa-brands-400.woff2",
+      "type": "font/woff2",
+      "bytes": 81612
+    },
+    "https://dkwplastics.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff": {
+      "local": "/sites/dkwplastics/fullsite/832014412d-fa-regular-400.woff",
+      "type": "font/woff",
+      "bytes": 16276
+    },
+    "https://dkwplastics.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2": {
+      "local": "/sites/dkwplastics/fullsite/103c15db9c-fa-regular-400.woff2",
+      "type": "font/woff2",
+      "bytes": 13276
+    },
+    "https://dkwplastics.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff": {
+      "local": "/sites/dkwplastics/fullsite/d05e576bc6-fa-solid-900.woff",
+      "type": "font/woff",
+      "bytes": 101652
+    },
+    "https://dkwplastics.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2": {
+      "local": "/sites/dkwplastics/fullsite/a2c6933ef6-fa-solid-900.woff2",
+      "type": "font/woff2",
+      "bytes": 78196
+    },
+    "https://dkwplastics.com/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.svg?1.7.4": {
+      "local": "/sites/dkwplastics/fullsite/52455ac640-forminator-icons-font.svg",
+      "type": "image/svg+xml",
+      "bytes": 21857
+    },
+    "https://dkwplastics.com/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.woff2?1.7.4": {
+      "local": "/sites/dkwplastics/fullsite/3147bbe583-forminator-icons-font.woff2",
+      "type": "font/woff2",
+      "bytes": 3544
+    },
+    "https://dkwplastics.com/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.woff?1.7.4": {
+      "local": "/sites/dkwplastics/fullsite/3802fcd05c-forminator-icons-font.woff",
+      "type": "font/woff",
+      "bytes": 8400
+    },
+    "https://dkwplastics.com/wp-content/plugins/forminator/assets/img/flags.png": {
+      "local": "/sites/dkwplastics/fullsite/8b3e9b40d0-flags.png",
+      "type": "image/png",
+      "bytes": 70857
+    },
+    "https://dkwplastics.com/wp-content/plugins/forminator/assets/img/flags@2x.png": {
+      "local": "/sites/dkwplastics/fullsite/1e0aab86fa-flags-2x.png",
+      "type": "image/png",
+      "bytes": 174369
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/css/compatibility/woo-fonts/WooCommerce.woff": {
+      "local": "/sites/dkwplastics/fullsite/9fab17f311-WooCommerce.woff",
+      "type": "font/woff",
+      "bytes": 16748
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/css/compatibility/woo-fonts/star.woff": {
+      "local": "/sites/dkwplastics/fullsite/64322763dc-star.woff",
+      "type": "font/woff",
+      "bytes": 1304
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/css/images/default-skin.png": {
+      "error": "HTTP Error 404: Not Found"
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/fonts/icomoon-the7-font/icomoon-the7-font.woff?wi57p5": {
+      "local": "/sites/dkwplastics/fullsite/ee775546b8-icomoon-the7-font.woff",
+      "type": "font/woff",
+      "bytes": 48096
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/arrow-bar-hide.svg": {
+      "local": "/sites/dkwplastics/fullsite/7aaf07c8d8-arrow-bar-hide.svg",
+      "type": "image/svg+xml",
+      "bytes": 727
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/arrow-bar-show.svg": {
+      "local": "/sites/dkwplastics/fullsite/d4d5ca2830-arrow-bar-show.svg",
+      "type": "image/svg+xml",
+      "bytes": 734
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/fullscreen-exit.svg": {
+      "local": "/sites/dkwplastics/fullsite/61afefc446-fullscreen-exit.svg",
+      "type": "image/svg+xml",
+      "bytes": 546
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/fullscreen.svg": {
+      "local": "/sites/dkwplastics/fullsite/d991e69458-fullscreen.svg",
+      "type": "image/svg+xml",
+      "bytes": 542
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/mask.png": {
+      "local": "/sites/dkwplastics/fullsite/b2f1a78c87-mask.png",
+      "type": "image/png",
+      "bytes": 113
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/percent.svg": {
+      "local": "/sites/dkwplastics/fullsite/2427f6d0e7-percent.svg",
+      "type": "image/svg+xml",
+      "bytes": 409
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/scroller-pause.svg": {
+      "local": "/sites/dkwplastics/fullsite/a32b7441c8-scroller-pause.svg",
+      "type": "image/svg+xml",
+      "bytes": 558
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/scroller-play.svg": {
+      "local": "/sites/dkwplastics/fullsite/7fb5c61d42-scroller-play.svg",
+      "type": "image/svg+xml",
+      "bytes": 516
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/search-icon.svg": {
+      "local": "/sites/dkwplastics/fullsite/a40b3df4f2-search-icon.svg",
+      "type": "image/svg+xml",
+      "bytes": 632
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/the7-check-circle-fill.svg": {
+      "local": "/sites/dkwplastics/fullsite/0a1bfe2c69-the7-check-circle-fill.svg",
+      "type": "image/svg+xml",
+      "bytes": 594
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/the7-chevron-down.svg": {
+      "local": "/sites/dkwplastics/fullsite/26f60e8a33-the7-chevron-down.svg",
+      "type": "image/svg+xml",
+      "bytes": 579
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/the7-chevron-left.svg": {
+      "local": "/sites/dkwplastics/fullsite/3206697085-the7-chevron-left.svg",
+      "type": "image/svg+xml",
+      "bytes": 649
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/the7-chevron-right.svg": {
+      "local": "/sites/dkwplastics/fullsite/1bd046f630-the7-chevron-right.svg",
+      "type": "image/svg+xml",
+      "bytes": 643
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/the7-chevron-side.svg": {
+      "local": "/sites/dkwplastics/fullsite/5d60bb4ad9-the7-chevron-side.svg",
+      "type": "image/svg+xml",
+      "bytes": 578
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/the7-cross-circle-fill.svg": {
+      "local": "/sites/dkwplastics/fullsite/316737f652-the7-cross-circle-fill.svg",
+      "type": "image/svg+xml",
+      "bytes": 794
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/the7-cross-lg.svg": {
+      "local": "/sites/dkwplastics/fullsite/5e47262580-the7-cross-lg.svg",
+      "type": "image/svg+xml",
+      "bytes": 583
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/the7-exclamation-circle-fill.svg": {
+      "local": "/sites/dkwplastics/fullsite/e6edb4a6d3-the7-exclamation-circle-fill.svg",
+      "type": "image/svg+xml",
+      "bytes": 612
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/the7-grid-3x3-gap-fill.svg": {
+      "local": "/sites/dkwplastics/fullsite/e9b9d9caa2-the7-grid-3x3-gap-fill.svg",
+      "type": "image/svg+xml",
+      "bytes": 1095
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/the7-share-fill.svg": {
+      "local": "/sites/dkwplastics/fullsite/6e88b4940f-the7-share-fill.svg",
+      "type": "image/svg+xml",
+      "bytes": 687
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/ther7-arrow-repeat.svg": {
+      "local": "/sites/dkwplastics/fullsite/3f97188ced-ther7-arrow-repeat.svg",
+      "type": "image/svg+xml",
+      "bytes": 1089
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/x-lg.svg": {
+      "local": "/sites/dkwplastics/fullsite/b01c879314-x-lg.svg",
+      "type": "image/svg+xml",
+      "bytes": 320
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/zoom-in.svg": {
+      "local": "/sites/dkwplastics/fullsite/d95207068d-zoom-in.svg",
+      "type": "image/svg+xml",
+      "bytes": 553
+    },
+    "https://dkwplastics.com/wp-content/themes/dt-the7/images/zoom-out.svg": {
+      "local": "/sites/dkwplastics/fullsite/ca85f84de8-zoom-out.svg",
+      "type": "image/svg+xml",
+      "bytes": 506
+    },
+    "https://lh7-us.googleusercontent.com/7JeT6vm7dgtFEhwEAjaXCnhXbFylJhWhi6mhgYNP6jFwhKf3e1VI7CONpxD_MYfbNH4QKnSnhQ8M3ZorwTbGOWjjyo5TVdNqoCivIVJNgBOyVjSY-9HK21-9jIrYSI0aaPF1ZAGzh3wuHC2UZrczEDE": {
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "https://lh7-us.googleusercontent.com/C7UQmgysEdH-tYMquEKEyvVUGQ_zgbj2pYKGWOLe8vds3rL5cgcA3rpDYjhxUTzK6e6ydssCiUDNGdQOhuF_SoKD60Y40zzB2BRtDToPpulW2RG_da8f9liO2P_dYQ2PacDPpL3UoWWvb5Li3GOdS94": {
+      "local": "/sites/dkwplastics/fullsite/8350b21d36-C7UQmgysEdH-tYMquEKEyvVUGQ_zgbj2pYKGWOLe8vds3rL5cgcA3rpDYjhxUTzK6e6ydssCiUDNGdQOhuF_SoKD60.jpg",
+      "type": "image/jpeg",
+      "bytes": 187491
+    },
+    "https://lh7-us.googleusercontent.com/IakjsrlhzpTkK30TsO8w6CC_efdBaRYlqF0d4B63EdPmS1JJyI5ielDCsYH4JU9oQ9CfFEQ1dE0ewJIETzhdhw6p7prBs2Cc4LupkKDujuLl7L2mM4ySvA2CgIcERtZ4KOTv8mb8FptZADx27rDRZ78": {
+      "local": "/sites/dkwplastics/fullsite/3e8299b28d-IakjsrlhzpTkK30TsO8w6CC_efdBaRYlqF0d4B63EdPmS1JJyI5ielDCsYH4JU9oQ9CfFEQ1dE0ewJIETzhdhw6p7p.jpg",
+      "type": "image/jpeg",
+      "bytes": 73267
+    },
+    "https://lh7-us.googleusercontent.com/N4_kC7tIk9ToHj66AiSuyzVBbKEWW2vsMDL2ImBxihITAWIVuafhfcboaXyAu6df4HwdLgWXT77Y2ePrpt4lsMqtKklAKh9vLzL0eOdeHj0Hb44f_2vvUywnqCuH3uywoxSvAuR1YnJJ1TY39LFPGwo": {
+      "local": "/sites/dkwplastics/fullsite/802e672c53-N4_kC7tIk9ToHj66AiSuyzVBbKEWW2vsMDL2ImBxihITAWIVuafhfcboaXyAu6df4HwdLgWXT77Y2ePrpt4lsMqtKk.jpg",
+      "type": "image/jpeg",
+      "bytes": 40222
+    },
+    "https://lh7-us.googleusercontent.com/Op4T-kyNo9YS4A1JsMRSDYZeGs6RKGDL5DzjZVhsvNPBT4kPX5rPp7kFoeblA7jmO-_3ZTS4NoVdbGs0_nPbp91jSKOe_wbtnCD4jbOzgGr-gO8lPLs0NYkbdIRIbuY-nx6B2a3vs3apc4mSl4vK7xA": {
+      "local": "/sites/dkwplastics/fullsite/ec5567afd0-Op4T-kyNo9YS4A1JsMRSDYZeGs6RKGDL5DzjZVhsvNPBT4kPX5rPp7kFoeblA7jmO-_3ZTS4NoVdbGs0_nPbp91jSK.jpg",
+      "type": "image/jpeg",
+      "bytes": 73314
+    },
+    "https://lh7-us.googleusercontent.com/RDobSd8_n9CRNiu0rRH7-RNILdRNez4M1CPcQGhF7jng_2oaM7byayuhTaOdKTGerlowjzArspPFc3z4D_7WA0PNQr8CipexYRc-ZhxNN2yzVUg1KZDMW3umv8epapTd9GdageGXw3ZshRrtA1vxVQs": {
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "https://lh7-us.googleusercontent.com/Va2O7u1QhiGF9tNIGTDhJHQEIwkjQOUHgwuhqkVnrDQ4XKQWT6HJQdHNgaNj5nZuyXcmAL9tqUoAghmYeFggg_3kmOKLkEwZgWbP9eT8UUHsvs0qsWtQge6pGxBZgghPwezF9zv4xnuoJuGszCMhvO4": {
+      "local": "/sites/dkwplastics/fullsite/ec23c6ebb9-Va2O7u1QhiGF9tNIGTDhJHQEIwkjQOUHgwuhqkVnrDQ4XKQWT6HJQdHNgaNj5nZuyXcmAL9tqUoAghmYeFggg_3kmO.jpg",
+      "type": "image/jpeg",
+      "bytes": 29667
+    },
+    "https://lh7-us.googleusercontent.com/Zmlt8Up0eMDVkbBA7CjfSBtP-oDPzHqyQW2eMdjkWPJRtwFXz2GBCAJ8vonuW5b4lNzuuL-03FINQE1hHw7glCyxrlcZdD8lR07JHWY-Zr3nn0VqROUG4rDuTqU1CZMkmd4qfrtFFhWLom6QgOSB7-E": {
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "https://lh7-us.googleusercontent.com/bypDyGIfHUaZC3Wli_e-Yu5L1Ug_hAW8ssP6ypFlYM9bCS_hrLwWGoSZRjLGNC2UoK6N77d1uqlVT99FPhVVhQeJbDVZhDmpnMmFcaMUbMjyGb6kjtdm5-j-eblSEplKC0O1HUxOIdbqwskKLvr7Vok": {
+      "local": "/sites/dkwplastics/fullsite/c090a6cb8a-bypDyGIfHUaZC3Wli_e-Yu5L1Ug_hAW8ssP6ypFlYM9bCS_hrLwWGoSZRjLGNC2UoK6N77d1uqlVT99FPhVVhQeJbD.jpg",
+      "type": "image/jpeg",
+      "bytes": 47218
+    },
+    "https://lh7-us.googleusercontent.com/docsz/AD_4nXckR9sGru5b709YU_aBC1mNm-tfpOFjrnpGGtdCpMd8bkZd8j42NHmirXehdZ6yOqU9H-egOBAt57mQkXSYY8tSZmn0_XQ349A6DwBG79Sp-uToLCvNXAt4MFbJUxoeoOg4BhCKxkBgIh7_xOGsfTdu7w8s?key=QIOXKqbjKtxzv1ZYTx-faQ": {
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "https://lh7-us.googleusercontent.com/docsz/AD_4nXdPYjxUszy4D91PtQuIRMeghjlBqdRQGh8yzspNI0RMo55q2rPfT4yWYNVO0dfoO2XuA73Y2XOAJqpWIKpp_39VMHW0kSRRewLsMvuhrkUt1D2ejZ-2sBbtl9CZoW9W2Yq5saFrQcKUNpqtavJL2HPnzXje?key=QIOXKqbjKtxzv1ZYTx-faQ": {
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "https://lh7-us.googleusercontent.com/fUA5ctBN2QINxz-dEi3HspK_v9dwCzKUMWLkf6_SJzV6YRdYej1-Hroruft9KmFIo3BJ6XyGyK6sLGBDYF0MmG9DLK90pCGlj1_DxC7qYrbgqvFyI3hGDh2mmdfNouWmliWWMyx0V3spql6dmpBbqK4": {
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "https://lh7-us.googleusercontent.com/gs3Rvh3_PraVjI_Y9KVF8MrN5ib9EUQWYGhgWGXfAmnXZCpAeZeCA6qLHcn_dGpcfQNY3ml7oHiwXpH-ODIXJVpBqaeDurKtMMfkbg8DN70Ss9vpi2xptO3l0Ex3rvi7iRz8DNb75dSBmIoJLpLe_00": {
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "https://lh7-us.googleusercontent.com/h7DhngF-H4KAt79SK3CIlGV7kwsUOQ6A0JYhfDxsqxFPdIpPzdBAdbxp-6NGsBWj92rDmHIguzLGsfixKuVXOqdCiQ-PzE2wfzzuZtYynC8jsCoFB0baoDYQqPJB3fUvMZGFlgcpYBl7PhiVR3bjg9w": {
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "https://lh7-us.googleusercontent.com/ljtCHt0qAZA3lK99BcVouHscUMPgdI04wwjKAUTI3-1YqPF79cHHtzQMh-oJsb9haki4pBkLmLy4tBN5o06oeQ6e1c4-ir5rDNAHqU_JQctRKvdKPg7g2yZjnhClfil9aAvJfCrNDx1xzVw4I29rB8A": {
+      "local": "/sites/dkwplastics/fullsite/6ed9c2c02b-ljtCHt0qAZA3lK99BcVouHscUMPgdI04wwjKAUTI3-1YqPF79cHHtzQMh-oJsb9haki4pBkLmLy4tBN5o06oeQ6e1c.jpg",
+      "type": "image/jpeg",
+      "bytes": 23905
+    },
+    "https://lh7-us.googleusercontent.com/qEYNIkFWwWULAk9fpd85pi6YpRxu5S7QI_Q3kThq4kNwF9oZP-Pv4nNU9fQdjV4y4MhTcVyIOENiAg-PSB3szoy_cKJeomKj0PEszCjQwRpjsHz_lPBNhgiHvR12kCx5EkN_EMQW5IZzo8T2q91vpO8": {
+      "local": "/sites/dkwplastics/fullsite/9842f07ef6-qEYNIkFWwWULAk9fpd85pi6YpRxu5S7QI_Q3kThq4kNwF9oZP-Pv4nNU9fQdjV4y4MhTcVyIOENiAg-PSB3szoy_cK.jpg",
+      "type": "image/jpeg",
+      "bytes": 90544
+    },
+    "https://lh7-us.googleusercontent.com/sct9W6TInR0lCMKZcfWh9Q4OdSMIaqLmPL0c2fDTijZTyqgwsoM5qARxpHxIRK62jrZyrPWk1kW5iZOD94stMFS08XfNR2-hzEK5oN-ffLv7u-hA11v8ZbQoQEay5Zfmo-Md1emBdYZAYQKGzhW6sOQ": {
+      "local": "/sites/dkwplastics/fullsite/2599f49c92-sct9W6TInR0lCMKZcfWh9Q4OdSMIaqLmPL0c2fDTijZTyqgwsoM5qARxpHxIRK62jrZyrPWk1kW5iZOD94stMFS08X.jpg",
+      "type": "image/jpeg",
+      "bytes": 97559
+    },
+    "https://lh7-us.googleusercontent.com/vCTsHDYDXFLWoG6N6qjHbpr58UfrR3r-yM6APp5GUIgkp_QyBZ8xKuewpLLxtAQXdZ95FRFAolFFHy5hhJocuxvqEp5dX59yyph7_3HK4XDgVdoNwYKKD5uVn49CINAIbMiZMDBYTl9fhaH-asiK7Wc": {
+      "error": "HTTP Error 403: Forbidden"
+    }
+  },
+  "errors": []
+}
